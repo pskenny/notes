@@ -4,7 +4,7 @@ tags:
   - Software_License
 creationDate: 2025-07-16
 modifiedDate: 2025-08-08
-published: 2025-08-23
+published: 2025-07-23
 publicUrl: https://www.wtfpl.net/
 access: Public
 ---

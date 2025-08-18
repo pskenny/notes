@@ -9,7 +9,7 @@ status:
 type:
   - Project
 creationDate: 2025-01-19
-modifiedDate: 2025-07-21
+modifiedDate: 2025-08-08
 published: 2025-07-21
 access: Public
 ---
@@ -68,6 +68,7 @@ pkspkms export -directory "" -query "" -output "" -type "markdown" -sqlite-db ""
 - [ ] Get SQlite DB up and running so it's not hammering your hard drive and taking ages ➕ 2025-06-20
 - [ ] Refractor ➕ 2025-07-12
 - [ ] Use [docopt](docopt.md) format for CLI ➕ 2025-07-17
+- [ ] Add [Swagger docs](https://javalin.io/tutorials/openapi-example) ➕ 2025-08-08
 
 ## Potential Features
 
@@ -85,10 +86,10 @@ pkspkms export -directory "" -query "" -output "" -type "markdown" -sqlite-db ""
 	- [ ] HTML
 	- [ ] Plaintext
 - [ ] Use Obsidian settings (point to `.Obsidian` directory?)
-- [ ] It'd be cool if when exporting, when you're exporting a file and a link in that file is for a file that isn't also getting exported it uses that file's `url` property instead of the file in the link when link resolving. Would need multiple file exports though.
+- [ ] It'd be cool if when you're exporting a file and a link in that file is for a file that isn't also getting exported it uses that file's `url` property instead of the file in the link when link resolving. Would need multiple file exports though.
 - [ ] Could abuse Markdown comments for my own dynamic syntax: [syntax - Comments in Markdown - Stack Overflow](https://stackoverflow.com/questions/4823468/comments-in-markdown)
-- [ ] Rewrite in Kotlin, change to Ktor and make Android app
 - [ ] Export rules as JSON (`pkspkms export -json ''`):
+
 ```json
 {
 	"export": [

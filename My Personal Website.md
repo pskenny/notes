@@ -37,7 +37,7 @@ The design is heavily copying the look of [Obsidian](Obsidian.md). I'd like to a
 ### Site
 
 - [ ] ==Refactor everything== ➕ 2025-07-12
-- [ ] Create separate Git repo that only includes Markdown/text files, reflecting content in website ➕ 2025-07-20
+- [x] Create separate Git repo that only includes Markdown/text files, reflecting content in website ➕ 2025-07-20 ✅ 2025-08-08
 - [ ] Check out [pandoc-sidenote](https://github.com/jez/pandoc-sidenote) ➕ 2025-07-14
 - [ ] Make 404 page ➕ 2025-07-12
 - [ ] Fix tags page (currently empty) ➕ 2025-07-12

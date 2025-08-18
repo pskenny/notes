@@ -77,3 +77,7 @@ More: [List comprehension - HaskellWiki](https://wiki.haskell.org/List_comprehen
 ## Links
 
 - Try Haskell in the browser - [Haskell Playground](https://play.haskell.org/)
+
+## Tagged
+
+
