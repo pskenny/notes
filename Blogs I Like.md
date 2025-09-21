@@ -7,9 +7,10 @@ tags:
 type:
   - Tag_Page
 creationDate: 2025-06-01
-modifiedDate: 2025-07-19
+modifiedDate: 2025-09-19
 published: 2025-07-01
 access: Public
+digitalGarden: Bud
 tag_page:
   - Blog
 ---
@@ -53,3 +54,21 @@ In no particular order:
 	- #Zine
 
 Also see [Podcasts I Like](Podcasts I Like.md)
+
+## Tagged
+
+```base
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.tags.contains("Blog")
+    order:
+      - file.name
+      - file.tags
+      - digitalGarden
+    columnSize:
+      file.tags: 732
+
+```

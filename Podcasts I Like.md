@@ -10,6 +10,7 @@ modifiedDate: 2025-07-19
 published: 2025-07-01
 access: Public
 tag_page: Podcast
+digitalGarden: Bud
 ---
 
 - [CoRecursive Podcast](CoRecursive Podcast.md), [RSS](https://link.chtbl.com/corecursive?id=corecursive&platform=rss)
@@ -24,6 +25,6 @@ tag_page: Podcast
 - [Darknet Diaries](https://darknetdiaries.com/), [RSS](https://feeds.megaphone.fm/darknetdiaries)
 	- Stories from the internet, for the tech inclined.
 - [Decoding The Gurus](https://decoding-the-gurus.captivate.fm/), [YouTube](https://www.youtube.com/@decodingthegurus)
-	- I wouldn't expect most to like it, but I think would be interesting at least for those who know a bit about the broader popular podcast sphere.
+	- I wouldn't expect most to like it. I think it would be interesting for those who know a bit about the broader popular podcast sphere.
 
 Also see [Blogs I Like](Blogs I Like.md)

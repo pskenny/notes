@@ -1,6 +1,7 @@
 ---
 title: Fullscreen Terminal Windows In Java Using Lanterna
 tags:
+  - Code_Snippet
   - Commandline
   - Programming_Language/Java
   - Terminal
@@ -8,10 +9,14 @@ tags:
 type:
   - Blog/Post
 creationDate: 2021-01-06
-modifiedDate: 2025-07-21
+modifiedDate: 2025-09-21
 published: 2021-01-06
 access: Public
+digitalGarden: Evergreen
 ---
+
+> [!warning] Hey, it's you from 2025
+> Don't do this. Don't hurt yourself. You want to write a [TUI](https://en.wikipedia.org/wiki/Command-line_interface)? Don't use Java. Use Python or Rust. That summer you had where you thought it was a fun idea it over.
 
 _tldr:_ Here's a code snippet of a fullscreen terminal window using Lanterna.
 

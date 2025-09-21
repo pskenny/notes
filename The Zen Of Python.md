@@ -12,6 +12,7 @@ publicUrl: https://peps.python.org/pep-0020/
 author:
   - Tim Peters
 access: Public
+digitalGarden: Evergreen
 ---
 
 ```

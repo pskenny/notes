@@ -13,6 +13,10 @@ author:
 access: Public
 bookmark:
   - Tool/Trinket
+description: Fun web tool to try out different dithering on an image
+digitalGarden: Seed
 ---
 
-Fun tool to try out different dithering on an image.
+Fun web tool to try out different dithering on an image.
+
+Source: [wwszola/dither-tool: A web-based application for applying ordered Bayer dithering to images.](https://github.com/wwszola/dither-tool)

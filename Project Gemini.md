@@ -11,6 +11,7 @@ publicUrl: https://geminiprotocol.net/docs/specification.gmi
 access: Public
 bookmark:
   - Computing
+digitalGarden: Seed
 ---
 
 A network protocol and hypertext format. Initial release was 2019.

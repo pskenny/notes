@@ -1,12 +1,14 @@
 ---
+aliases: [WTFPL — Do What the Fuck You Want to Public License]
 tags:
   - Legal
   - Software_License
 creationDate: 2025-07-16
-modifiedDate: 2025-08-08
+modifiedDate: 2025-09-21
 published: 2025-07-23
 publicUrl: https://www.wtfpl.net/
 access: Public
+digitalGarden: Evergreen
 ---
 
 ## Full License Text

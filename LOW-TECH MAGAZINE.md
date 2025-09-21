@@ -1,5 +1,6 @@
 ---
 tags:
+  - Blog
   - Solar
   - Solarpunk
   - Sustainability
@@ -8,19 +9,18 @@ type:
   - Blog/Link
   - Bookmark
 creationDate: 2024-08-01
-modifiedDate: 2025-07-19
+modifiedDate: 2025-09-21
 published: 2025-07-01
 publicUrl: https://www.lowtechmagazine.com/
 access: Public
 bookmark:
   - Zine
+digitalGarden: Seed
 ---
-
-Link: [LOW←TECH MAGAZINE](https://www.lowtechmagazine.com/)
 
 Great magazine and blog about low-tech solutions. A better description than I can do can be found over at [Damaged Earth Catalog](https://damaged.bleu255.com/Low-Tech/)
 
-The website runs on solar powered batteries so sometimes it's down. I think it's set up in Barcelona, Spain?
+The website runs on solar powered batteries so sometimes it's down. I think it's set up in Barcelona, Spain.
 
 ## Favourites
 

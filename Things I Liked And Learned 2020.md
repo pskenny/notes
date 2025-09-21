@@ -4,12 +4,13 @@ tags:
 type:
   - Blog/Post
 creationDate: 2020-12-31
-modifiedDate: 2025-07-19
+modifiedDate: 2025-09-21
 published: 2020-12-31
 access: Public
+digitalGarden: Evergreen
 ---
 
-_Inspired by Fogus' "The best things and stuff..."_
+_Inspired by Fogus' "The best things and stuff…"_
 
 ## Programming/Tech/Math
 

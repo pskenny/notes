@@ -5,12 +5,13 @@ tags:
 type:
   - Blog/Post
 creationDate: 2021-12-31
-modifiedDate: 2025-07-19
+modifiedDate: 2025-09-21
 published: 2021-12-31
 access: Public
+digitalGarden: Evergreen
 ---
 
-_Inspired by [Fogus](http://blog.fogus.me/)' "The best things and stuff..."_
+_Inspired by [Fogus](http://blog.fogus.me/)' "The best things and stuff…"_
 
 ## Podcasts
 

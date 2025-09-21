@@ -10,6 +10,8 @@ access: Public
 bookmark:
   - Computing/Podcast
 rss: https://link.chtbl.com/corecursive?id=corecursive&platform=rss
+type:
+  - Podcast
 ---
 
 Interesting stories for software developers.

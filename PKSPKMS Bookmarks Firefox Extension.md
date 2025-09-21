@@ -6,11 +6,11 @@ tags:
   - Programming_Language/JavaScript
   - Web_Browser/Extension
 status:
-  - Active
+  - Inactive
 type:
   - Project
 creationDate: 2024-10-01
-modifiedDate: 2025-07-21
+modifiedDate: 2025-09-08
 published: 2025-07-01
 publicUrl: https://github.com/pskenny/pkspkms-bookmarks-extension
 access: Public
@@ -43,6 +43,7 @@ Multiple `Bookmark` tags put the same link in multiple folders.
 
 ### Potential Additional Tasks
 
+- [ ] Check if the current tab is bookmarked already (search by URL field) ➕ 2025-09-08
 - [x] Add search functionality ✅ 2025-07-11
 	- [ ] Add bookmark search functionality
 	- [ ] Add history search functionality
