@@ -16,7 +16,7 @@ digitalGarden: Evergreen
 ---
 
 > [!warning] Hey, it's you from 2025
-> Don't do this. Don't hurt yourself. You want to write a [TUI](https://en.wikipedia.org/wiki/Command-line_interface)? Don't use Java. Use Python or Rust. That summer you had where you thought it was a fun idea it over.
+> Don't do this. Don't hurt yourself. You want to write a [TUI](https://en.wikipedia.org/wiki/Command-line_interface)? Don't use Java. Use Python or Rust. That summer when you thought it was a fun idea is over.
 
 _tldr:_ Here's a code snippet of a fullscreen terminal window using Lanterna.
 

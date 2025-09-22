@@ -1,5 +1,5 @@
 ---
-aliases: [WTFPL — Do What the Fuck You Want to Public License]
+aliases: [Do What the Fuck You Want to Public License]
 tags:
   - Legal
   - Software_License

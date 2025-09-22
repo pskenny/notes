@@ -6,6 +6,7 @@ tags:
   - Neocities
   - PKSPKMS
   - Programming_Language/Haskell
+  - Small_Web
 status:
   - Active
 type:
@@ -39,6 +40,7 @@ The design is heavily copying the look of [Obsidian](Obsidian.md) since that's m
 ## Resources
 
 - [Network Graphs: Visualizing Relationships and Connections in Research Data](https://editverse.com/network-graphs-visualizing-relationships-in-research-data/)
+- You can find the Markdown files this website is generated from in this Git repo: [GitHub - pskenny/notes](https://github.com/pskenny/notes)
 
 ## Tasks
 

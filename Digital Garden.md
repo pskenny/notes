@@ -23,7 +23,7 @@ I've three categories:
 
 - **Seed** - new, small, not built upon.
 - **Bud** - rough, a bit more expanded upon and effort expended.
-- **Evergreen** - all good, nothing more needed or it's been expanded upon enough.
+- **Evergreen** - all good, nothing more needed or it's been expanded upon enough. Also see [Evergreen notes](https://notes.andymatuschak.org/z5E5QawiXCMbtNtupvxeoEX).
 
 ## Catalogue
 
@@ -57,26 +57,26 @@ views:
 
 | fileName | tags |
 |---|---|
-| [just serendipity.md](just serendipity.md) | [Blog, Tech] |
-| [PKSPKMS.md](PKSPKMS.md) | [Backend, Personal_Knowledge_Management, PKSPKMS, Programming_Language/Java] |
-| [Podcasts I Like.md](Podcasts I Like.md) | [I_Like, List, Podcast] |
-| [Blogs I Like.md](Blogs I Like.md) | [Blog, I_Like, List] |
-| [Programs I Like.md](Programs I Like.md) | [Android, App, I_Like, Linux, List, Program] |
+| [just serendipity.md](just serendipity.md) | [Blog](/tags/Blog.html), [Tech](/tags/Tech.html) |
+| [PKSPKMS.md](PKSPKMS.md) | [Backend](/tags/Backend.html), [Personal_Knowledge_Management](/tags/Personal_Knowledge_Management.html), [PKSPKMS](/tags/PKSPKMS.html), [Programming_Language/Java](/tags/Programming_Language/Java.html) |
+| [Podcasts I Like.md](Podcasts I Like.md) | [I_Like](/tags/I_Like.html), [List](/tags/List.html), [Podcast](/tags/Podcast.html) |
+| [Blogs I Like.md](Blogs I Like.md) | [Blog](/tags/Blog.html), [I_Like](/tags/I_Like.html), [List](/tags/List.html) |
+| [Programs I Like.md](Programs I Like.md) | [Android](/tags/Android.html), [App](/tags/App.html), [I_Like](/tags/I_Like.html), [Linux](/tags/Linux.html), [List](/tags/List.html), [Program](/tags/Program.html) |
 
 
 ## Evergreen
 
 | fileName | tags | type |
 |---|---|---|
-| [The Zen Of Python.md](The Zen Of Python.md) | [Advice, Programming_Language/Python, Software_Development] | [Blog/Quote] |
-| [YTCH.md](YTCH.md) | [Best_Of/2024, Entertainment, Video, YouTube] | [Blog/Link, Bookmark] |
-| [==ESPY.WORLD==.md](==ESPY.WORLD==.md) | [Art, Comic, Trinket/Website] | [Blog/Link, Bookmark] |
-| [A rant on personal engineering projects.md](A rant on personal engineering projects.md) | [Best_Of/2024, Project_Management, Video] | [Blog/Link, Bookmark] |
-| [WTFPL.md](WTFPL.md) | [Legal, Software_License] | nil |
-| [Things I Liked And Learned 2020.md](Things I Liked And Learned 2020.md) | [Things_I_Liked_And_Learned] | [Blog/Post] |
-| [Things I Liked And Learned 2021.md](Things I Liked And Learned 2021.md) | [Things_I_Liked_And_Learned] | [Blog/Post] |
-| [time HTML element.md](time HTML element.md) | [HTML, TIL] | nil |
-| [Fullscreen Java Terminal Windows.md](Fullscreen Java Terminal Windows.md) | [Code_Snippet, Commandline, Programming_Language/Java, Terminal, TUI] | [Blog/Post] |
+| [The Zen Of Python.md](The Zen Of Python.md) | [Advice](/tags/Advice.html), [Programming_Language/Python](/tags/Programming_Language/Python.html), [Software_Development](/tags/Software_Development.html) | [Blog/Quote] |
+| [YTCH.md](YTCH.md) | [Best_Of/2024](/tags/Best_Of/2024.html), [Entertainment](/tags/Entertainment.html), [Video](/tags/Video.html), [YouTube](/tags/YouTube.html) | [Blog/Link, Bookmark] |
+| [==ESPY.WORLD==.md](==ESPY.WORLD==.md) | [Art](/tags/Art.html), [Comic](/tags/Comic.html), [Trinket/Website](/tags/Trinket/Website.html) | [Blog/Link, Bookmark] |
+| [A rant on personal engineering projects.md](A rant on personal engineering projects.md) | [Best_Of/2024](/tags/Best_Of/2024.html), [Project_Management](/tags/Project_Management.html), [Video](/tags/Video.html) | [Blog/Link, Bookmark] |
+| [WTFPL.md](WTFPL.md) | [Legal](/tags/Legal.html), [Software_License](/tags/Software_License.html) | nil |
+| [Things I Liked And Learned 2020.md](Things I Liked And Learned 2020.md) | [Things_I_Liked_And_Learned](/tags/Things_I_Liked_And_Learned.html) | [Blog/Post] |
+| [Things I Liked And Learned 2021.md](Things I Liked And Learned 2021.md) | [Things_I_Liked_And_Learned](/tags/Things_I_Liked_And_Learned.html) | [Blog/Post] |
+| [time HTML element.md](time HTML element.md) | [HTML](/tags/HTML.html), [TIL](/tags/TIL.html) | nil |
+| [Fullscreen Java Terminal Windows.md](Fullscreen Java Terminal Windows.md) | [Code_Snippet](/tags/Code_Snippet.html), [Commandline](/tags/Commandline.html), [Programming_Language/Java](/tags/Programming_Language/Java.html), [Terminal](/tags/Terminal.html), [TUI](/tags/TUI.html) | [Blog/Post] |
 
 
 ## Links

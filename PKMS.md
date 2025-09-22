@@ -15,6 +15,8 @@ tag_page:
 
 Personal knowledge management system.
 
+Also see [Zettelkasten](Zettelkasten.md).
+
 ## Links
 
 - [Personal knowledge management - Wikipedia](https://en.wikipedia.org/wiki/Personal_knowledge_management)

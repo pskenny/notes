@@ -14,6 +14,7 @@ modifiedDate: 2025-09-08
 published: 2025-07-01
 publicUrl: https://github.com/pskenny/pkspkms-bookmarks-extension
 access: Public
+digitalGarden: Seed
 ---
 
  > [!info] This has not yet been release, out of shame. I will do it someday.

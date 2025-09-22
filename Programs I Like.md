@@ -69,5 +69,6 @@ digitalGarden: Bud
 - Material Files
 - HeliBoard ([Git](https://github.com/Helium314/HeliBoard)) - Keyboard, you _can_ add swipe gestures to type
 - [NewsBlur](https://newsblur.com/) ([Git](https://github.com/samuelclay/NewsBlur)) - RSS feed reader
-- CoMaps
+- CoMaps - Maps (Google Maps alternative)
+- Audile - audio recognition (Shazam alternative)
 - [Voice Audio Player](https://voice.woitaschek.de/) ([F-Droid](https://f-droid.org/packages/de.ph1b.audiobook/)) - Audio book player

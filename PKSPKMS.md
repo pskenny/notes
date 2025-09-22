@@ -10,7 +10,7 @@ type:
   - Project
   - Tag_Page
 creationDate: 2025-01-19
-modifiedDate: 2025-09-21
+modifiedDate: 2025-09-22
 published: 2025-07-21
 access: Public
 digitalGarden: Bud
@@ -101,6 +101,17 @@ pkspkms export -directory "" -query "" -output "" -type "markdown" -sqlite-db ""
 
 ### Potential Features
 
+- [ ] what about a coordinating server for multiple pkms sources? ➕ 2025-09-22
+
+```
+GOTO - The Brightest Minds in Tech: Beyond the Cloud: The Local-First Software Revolution • Brooklyn Zelenka & Julian Wood
+Starting from: 00:13:02
+
+Episode webpage: https://gotopia.tech/articles/374/beyond-the-cloud-the-local-first-software-revolution
+
+Media file: https://www.buzzsprout.com/1714721/episodes/17670928-beyond-the-cloud-the-local-first-software-revolution-brooklyn-zelenka-julian-wood.mp3#t=782
+```
+
 - [ ] Add [Swagger docs](https://javalin.io/tutorials/openapi-example) ➕ 2025-08-08
 - [ ] Add a validation JSON schema endpoint for Markdown YAML ➕ 2025-09-13
 - [ ] Watch for file changes and update DB
@@ -117,7 +128,7 @@ pkspkms export -directory "" -query "" -output "" -type "markdown" -sqlite-db ""
 
 | fileName | tags | digitalGarden |
 |---|---|---|
-| [PKSPKMS.md](PKSPKMS.md) | [Backend, Personal_Knowledge_Management, PKSPKMS, Programming_Language/Java] | Bud |
-| [PKSPKMS Bookmarks Firefox Extension.md](PKSPKMS Bookmarks Firefox Extension.md) | [Firefox, Personal_Knowledge_Management, PKSPKMS, Programming_Language/JavaScript, Web_Browser/Extension] | nil |
-| [My Personal Website.md](My Personal Website.md) | [Blog, Digital_Garden, Neocities, PKSPKMS, Programming_Language/Haskell] | Seed |
+| [PKSPKMS.md](PKSPKMS.md) | [Backend](/tags/Backend.html), [Personal_Knowledge_Management](/tags/Personal_Knowledge_Management.html), [PKSPKMS](/tags/PKSPKMS.html), [Programming_Language/Java](/tags/Programming_Language/Java.html) | Bud |
+| [PKSPKMS Bookmarks Firefox Extension.md](PKSPKMS Bookmarks Firefox Extension.md) | [Firefox](/tags/Firefox.html), [Personal_Knowledge_Management](/tags/Personal_Knowledge_Management.html), [PKSPKMS](/tags/PKSPKMS.html), [Programming_Language/JavaScript](/tags/Programming_Language/JavaScript.html), [Web_Browser/Extension](/tags/Web_Browser/Extension.html) | Seed |
+| [My Personal Website.md](My Personal Website.md) | [Blog](/tags/Blog.html), [Digital_Garden](/tags/Digital_Garden.html), [Neocities](/tags/Neocities.html), [PKSPKMS](/tags/PKSPKMS.html), [Programming_Language/Haskell](/tags/Programming_Language/Haskell.html), [Small_Web](/tags/Small_Web.html) | Seed |
 

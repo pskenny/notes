@@ -1,5 +1,4 @@
 ---
-published: 2025-07-11
 tags:
   - Software_Development
   - Terminology
@@ -8,6 +7,7 @@ status:
   - Fleeting
 creationDate: 2025-09-21
 modifiedDate: 2025-09-21
+published: 2025-09-21
 access: Public
 digitalGarden: Seed
 ---
