@@ -6,10 +6,11 @@ tags:
   - Music
   - Trinket/Website
 type:
+  - Blog
   - Blog/Link
   - Bookmark
 creationDate: 2025-06-28
-modifiedDate: 2025-09-21
+modifiedDate: 2025-11-12
 published: 2025-09-10
 publicUrl: https://everynoise.com/
 access: Public
@@ -23,4 +24,4 @@ Examples of every genre of music, has a Spotify playlist for each genre too. Fun
 
 Best viewed on desktop.
 
-![[2025-09-21 Every Noise at Once preview.jpg|340x280]]
+![2025-09-21 Every Noise at Once preview.jpg](./Resources/Image/2025-09-21 Every Noise at Once preview.jpg)

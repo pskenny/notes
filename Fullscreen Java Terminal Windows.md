@@ -7,6 +7,7 @@ tags:
   - Terminal
   - TUI
 type:
+  - Blog
   - Blog/Post
 creationDate: 2021-01-06
 modifiedDate: 2025-09-21

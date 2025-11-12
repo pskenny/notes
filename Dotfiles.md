@@ -6,6 +6,7 @@ creationDate: 2025-02-09
 modifiedDate: 2025-07-23
 published: 2025-07-21
 access: Public
+digitalGarden: Seed
 ---
 
 Dotfiles are repos that have files to help to configure a machine, like:

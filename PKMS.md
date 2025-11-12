@@ -15,7 +15,7 @@ tag_page:
 
 Personal knowledge management system.
 
-Also see [Zettelkasten](Zettelkasten.md).
+Also see [[Zettelkasten]].
 
 ## Links
 

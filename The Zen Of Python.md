@@ -4,9 +4,10 @@ tags:
   - Programming_Language/Python
   - Software_Development
 type:
+  - Blog
   - Blog/Quote
 creationDate: 2025-02-09
-modifiedDate: 2025-07-22
+modifiedDate: 2025-11-12
 published: 2025-02-09
 publicUrl: https://peps.python.org/pep-0020/
 author:

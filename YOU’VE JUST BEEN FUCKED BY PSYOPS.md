@@ -12,6 +12,7 @@ publicUrl: https://media.ccc.de/v/37c3-12326-you_ve_just_been_fucked_by_psyops#t
 author:
   - Trevor Paglen
 access: Public
+digitalGarden: Evergreen
 ---
 
 <iframe width="1024" height="576" src="https://media.ccc.de/v/37c3-12326-you_ve_just_been_fucked_by_psyops/oembed" frameborder="0" allowfullscreen></iframe>

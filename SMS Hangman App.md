@@ -7,21 +7,22 @@ tags:
   - Idea
   - Just_For_Fun
 status:
-  - Todo
+  - Idea
 type:
+  - Blog
   - Blog/Post
   - Game
   - Project
 creationDate: 2024-10-17
-modifiedDate: 2025-09-21
+modifiedDate: 2025-11-12
 published: 2025-07-21
 access: Public
+description: Idea for a hangman game every time you get a text message.
 digitalGarden: Seed
-finished: false
 ---
 
 **SMS messaging app idea**: When you get a text it's received as a game of [hangman](https://en.wikipedia.org/wiki/Hangman_(game)) to solve. If you don't succeed, the text is deleted. Good luck trying to guess activation/verification codes.
 
-![Hangman sms game.excalidraw.svg](Resources/Drawings/Hangman sms game.excalidraw.svg)
+![Hangman sms game.excalidraw.svg](./Resources/Drawings/Hangman sms game.excalidraw.svg)
 
-Would like to try doing it using [Kotlin](Kotlin.md) and [Jetpack Compose](https://en.wikipedia.org/wiki/Jetpack_Compose).
+Would like to try doing it using [[Kotlin]] and [Jetpack Compose](https://en.wikipedia.org/wiki/Jetpack_Compose).

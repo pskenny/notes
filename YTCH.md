@@ -1,22 +1,23 @@
 ---
-aliases:
-  - YouTube Channels
+aliases: [YouTube Channels]
 tags:
   - Best_Of/2024
   - Entertainment
   - Video
   - YouTube
 type:
+  - Blog
   - Blog/Link
   - Bookmark
 creationDate: 2025-06-10
-modifiedDate: 2025-08-26
+modifiedDate: 2025-11-12
 published: 2025-07-21
 publicUrl: https://ytch.xyz/
 access: Public
 bookmark:
   - Favourite
   - Video
+description: YouTube if it had channels.
 digitalGarden: Evergreen
 ---
 

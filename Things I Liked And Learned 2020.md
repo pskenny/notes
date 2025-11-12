@@ -1,10 +1,12 @@
 ---
 tags:
+  - Best_Of/2020
   - Things_I_Liked_And_Learned
 type:
+  - Blog
   - Blog/Post
 creationDate: 2020-12-31
-modifiedDate: 2025-09-21
+modifiedDate: 2025-11-12
 published: 2020-12-31
 access: Public
 digitalGarden: Evergreen

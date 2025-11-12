@@ -4,10 +4,10 @@ tags:
   - Blog
   - Tech
 type:
-  - Blog/Link
+  - Blog
   - Bookmark
 creationDate: 2025-06-20
-modifiedDate: 2025-09-21
+modifiedDate: 2025-11-12
 published: 2025-07-01
 publicUrl: https://perrotta.dev/posts
 author:
@@ -16,8 +16,8 @@ access: Public
 bookmark:
   - Digital_Garden
 description: I like the blog. Tiny posts frequently about mostly backend-y type software developer things.
-rss: https://perrotta.dev/posts/index.xml
 digitalGarden: Bud
+rss: https://perrotta.dev/posts/index.xml
 ---
 
 I like the blog. Tiny posts frequently about mostly backend-y type software developer things.

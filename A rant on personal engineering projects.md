@@ -4,10 +4,11 @@ tags:
   - Project_Management
   - Video
 type:
+  - Blog
   - Blog/Link
   - Bookmark
 creationDate: 2025-06-20
-modifiedDate: 2025-09-21
+modifiedDate: 2025-11-12
 published: 2024-10-06
 publicUrl: https://www.youtube.com/watch?v=4jgTCayWlwc
 author:

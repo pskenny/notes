@@ -3,9 +3,10 @@ title: "Things I Liked And Learned: 2021"
 tags:
   - Things_I_Liked_And_Learned
 type:
+  - Blog
   - Blog/Post
 creationDate: 2021-12-31
-modifiedDate: 2025-09-21
+modifiedDate: 2025-11-12
 published: 2021-12-31
 access: Public
 digitalGarden: Evergreen
@@ -16,9 +17,9 @@ _Inspired by [Fogus](http://blog.fogus.me/)' "The best things and stuff…"_
 ## Podcasts
 
 - [Lex Fridman Podcast](https://lexfridman.com/podcast/) - Smart people having long conversations with Lex. Spoken with empathy and a generous understanding. Although long (usually 2.5/3 hours), I've never regretted listening to a minute.
-- [CoRecursive Podcast](CoRecursive Podcast.md) - Interviews with tech people, programmer oriented. Consistently interesting.
+- [CoRecursive Podcast](./CoRecursive Podcast.md) - Interviews with tech people, programmer oriented. Consistently interesting.
 
-Also see [Podcasts I Like](Podcasts I Like.md).
+Also see [Podcasts I Like](./Podcasts I Like.md).
 
 ## Films/TV Shows/YouTube
 

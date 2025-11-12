@@ -12,6 +12,7 @@ bookmark:
 rss: https://link.chtbl.com/corecursive?id=corecursive&platform=rss
 type:
   - Podcast
+digitalGarden: Bud
 ---
 
 Interesting stories for software developers.

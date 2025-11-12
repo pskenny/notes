@@ -7,10 +7,11 @@ tags:
   - Essay
   - Programming
 type:
+  - Blog
   - Blog/Link
   - Bookmark
 creationDate: 2025-07-16
-modifiedDate: 2025-08-26
+modifiedDate: 2025-11-12
 published: 2025-08-30
 publicUrl: https://notashelf.dev/posts/curse-of-knowing
 author:
