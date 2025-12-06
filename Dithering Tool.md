@@ -1,13 +1,14 @@
 ---
 tags:
+  - Cool
   - Graphics
   - Web_App
 type:
   - Bookmark
 creationDate: 2025-07-03
-modifiedDate: 2025-07-20
+modifiedDate: 2025-11-15
 published: 2025-07-23
-publicUrl: https://wwszola.github.io/dither-tool/
+url: https://wwszola.github.io/dither-tool/
 author:
   - Wojciech Wszoła
 access: Public

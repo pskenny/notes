@@ -4,16 +4,14 @@ tags:
   - Programming_Language/Haskell
   - Static_Websites
 creationDate: 2025-06-30
-modifiedDate: 2025-09-20
+modifiedDate: 2025-11-21
 published: 2025-07-16
-publicUrl: https://jaspervdj.be/hakyll/
+url: https://jaspervdj.be/hakyll/
 access: Public
 digitalGarden: Seed
 ---
 
-Hakyll is a [[Haskell]] library that you can use to write a program that generates a website. Uses [Pandoc](https://en.wikipedia.org/wiki/Pandoc) for conversions. You write a program that generates a website, instead of passing in generation details to another program (such as [Jekyll](https://en.wikipedia.org/wiki/Jekyll_(software))).
-
-I still don't know much of how to program in Haskell so I'm pretty useless at using this (I [[Learn you a Haskell for great good|should read more]]). [My Personal Website](./My Personal Website.md) is written using it though, much to my own frustration.
+Hakyll is a [[Haskell]] library that you can use to write a program that generates a website. It uses [Pandoc](https://en.wikipedia.org/wiki/Pandoc) for document conversions. You write a program using it that generates a website, instead of passing in generation details to another program (such as [Jekyll](https://en.wikipedia.org/wiki/Jekyll_(software))).
 
 ## Other Resources
 

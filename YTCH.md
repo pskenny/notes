@@ -10,14 +10,14 @@ type:
   - Blog/Link
   - Bookmark
 creationDate: 2025-06-10
-modifiedDate: 2025-11-12
+modifiedDate: 2025-12-05
 published: 2025-07-21
-publicUrl: https://ytch.xyz/
+url: https://ytch.xyz/
 access: Public
 bookmark:
   - Favourite
   - Video
-description: YouTube if it had channels.
+description: YouTube if it had channels
 digitalGarden: Evergreen
 ---
 

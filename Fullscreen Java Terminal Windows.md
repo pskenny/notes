@@ -2,7 +2,7 @@
 title: Fullscreen Terminal Windows In Java Using Lanterna
 tags:
   - Code_Snippet
-  - Commandline
+  - Command-line
   - Programming_Language/Java
   - Terminal
   - TUI
@@ -14,6 +14,7 @@ modifiedDate: 2025-09-21
 published: 2021-01-06
 access: Public
 digitalGarden: Evergreen
+description: Code snippet for writing a TUI in Java using Lanterna
 ---
 
 > [!warning] Hey, it's you from 2025
@@ -68,4 +69,4 @@ _Note: Note:_ As told in the documentation, _"Please note that it's up to the wi
 - [Github repo](https://github.com/mabe02/lanterna)
 - [Maven repo](https://mvnrepository.com/artifact/com.googlecode.lanterna/lanterna)
 - [Official docs](https://github.com/mabe02/lanterna/tree/master/docs)
-- [Official tutorial](https://github.com/mabe02/lanterna/blob/master/docs/tutorial/Tutorial01.md)
+- [Official tutorial](https://github.com/mabe02/lanterna/blob/master/docs/tutorial/Tutorial01.html)

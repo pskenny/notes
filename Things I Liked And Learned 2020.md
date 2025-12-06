@@ -23,8 +23,8 @@ _Inspired by Fogus' "The best things and stuff…"_
 
 ## Videos
 
-- [How To Speak by Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY). Great talk about how to speak effectively with tons of examples in the positive and negative.
-- [Every Melody Has Been Copyrighted (and they're all on this hard drive)](https://youtu.be/sfXn_ecH5Rw). Look at brute-forcing music and the implications on copyright on own permutations. [What about text?](https://en.wikipedia.org/wiki/The_Library_of_Babel)
+- ![How To Speak by Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY). Great talk about how to speak effectively with tons of examples in the positive and negative.
+- ![Every Melody Has Been Copyrighted (and they're all on this hard drive)](https://youtu.be/sfXn_ecH5Rw). Look at brute-forcing music and the implications on copyright on own permutations. [What about text?](https://en.wikipedia.org/wiki/The_Library_of_Babel)
 
 ## Other
 

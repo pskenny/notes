@@ -2,14 +2,15 @@
 tags:
   - Art
   - Comic
+  - Neocities
   - Trinket/Website
 type:
   - Blog
   - Bookmark
 creationDate: 2025-07-16
-modifiedDate: 2025-11-12
+modifiedDate: 2025-11-13
 published: 2025-07-21
-publicUrl: https://espy.world/
+url: https://espy.world/
 access: Public
 bookmark:
   - Trinket/Art
@@ -19,4 +20,4 @@ digitalGarden: Evergreen
 
 Incredibly well styled and wonderful to look at comic website. The comics are okay.
 
-![2025-09-21 ESPY.WORLD preview.jpg](./Resources/Image/2025-09-21 ESPY.WORLD preview.jpg)
+![ESP.World homepage screenshot](./Resources/Image/2025-09-21 ESPY.WORLD preview.jpg)

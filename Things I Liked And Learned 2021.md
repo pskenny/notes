@@ -17,15 +17,16 @@ _Inspired by [Fogus](http://blog.fogus.me/)' "The best things and stuff…"_
 ## Podcasts
 
 - [Lex Fridman Podcast](https://lexfridman.com/podcast/) - Smart people having long conversations with Lex. Spoken with empathy and a generous understanding. Although long (usually 2.5/3 hours), I've never regretted listening to a minute.
-- [CoRecursive Podcast](./CoRecursive Podcast.md) - Interviews with tech people, programmer oriented. Consistently interesting.
+- [CoRecursive Podcast](./CoRecursive Podcast.html) - Interviews with tech people, programmer oriented. Consistently interesting.
 
-Also see [Podcasts I Like](./Podcasts I Like.md).
+Also see [Podcasts I Like](./Podcasts I Like.html).
 
 ## Films/TV Shows/YouTube
 
 - [The Midnight Gospel](https://www.imdb.com/title/tt11639414/) - Gentle existential conversations with bright, playful and reflective visuals.
 - [Patrick (H) Willems](https://www.youtube.com/channel/UCF1fG3gT44nGTPU2sVLoFWg) - Someone who loves and knows a lot about film making talks about films.
-- [The Minute Hour - Something Terribly Offensive](https://www.youtube.com/watch?v=EkDOuRAwrYE)
+
+![The Minute Hour - Something Terribly Offensive](https://www.youtube.com/watch?v=EkDOuRAwrYE)
 
 ## Music
 

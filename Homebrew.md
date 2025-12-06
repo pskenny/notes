@@ -1,13 +1,17 @@
 ---
 tags:
+  - Linux
+  - Mac
   - Package_Manager
   - Program
 creationDate: 2025-07-19
-modifiedDate: 2025-09-21
+modifiedDate: 2025-12-05
 published: 2025-07-21
-publicUrl: https://brew.sh/
+url: https://brew.sh/
 access: Public
+description: The missing package manager
 digitalGarden: Seed
+git: https://github.com/Homebrew/brew
 ---
 
 Package manager. Useful for Steam Deck and MacOS.

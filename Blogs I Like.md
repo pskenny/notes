@@ -4,33 +4,29 @@ tags:
   - Blog
   - I_Like
   - List
-type:
-  - Tag_Page
 creationDate: 2025-06-01
-modifiedDate: 2025-11-11
+modifiedDate: 2025-11-15
 published: 2025-07-01
 access: Public
-description: A list of blogs I follow and enjoy.
-digitalGarden: Bud
-tag_page:
-  - Blog
+description: A list of blogs I follow and enjoy
+digitalGarden: Seed
 ---
 
 In no particular order:
 
-- [just serendipity](./just serendipity.md),
-  - #Blog, #Programming, #Digital_Garden
-- [John Salvatier](http://johnsalvatier.org/blog/)
+- [just serendipity](./just serendipity.html),
+  - <span class="tag">[Blog](/tags/Blog.html)</span>, <span class="tag">[Programming](/tags/Programming.html)</span>, <span class="tag">[Digital_Garden](/tags/Digital_Garden.html)</span>
+  - [Distributing my own scripts via homebrew \| ¬ just serendipity 🍀](https://perrotta.dev/2025/10/distributing-my-own-scripts-via-homebrew/)
 - [Martin Fowler](https://martinfowler.com/), [RSS](https://martinfowler.com/feed.atom)
-  - #Programming
+  - <span class="tag">[Programming](/tags/Programming.html)</span>
   - Notable in computing and programming teaching/learning. I enjoy his sparse non-computer related posts too.
 - [beepb00p](https://beepb00p.xyz/), [GitHub](https://github.com/karlicoss/beepb00p)
-  - #Digital_Garden, #Personal_Knowledge_Management
+  - <span class="tag">[Digital_Garden](/tags/Digital_Garden.html)</span>, <span class="tag">[Personal_Knowledge_Management](/tags/Personal_Knowledge_Management.html)</span>
   - A personal garden. Obviously a great amount of time labouring over the information on it. Dense presentation on mobile.
 - [Schneier On Security](https://www.schneier.com/)
-  - #Security
+  - <span class="tag">[Security](/tags/Security.html)</span>
 - [Julia Evans](https://jvns.ca/)
-  - #Zine, #Blog
+  - <span class="tag">[Zine](/tags/Zine.html)</span>, <span class="tag">[Blog](/tags/Blog.html)</span>
   - Makes great zines
   - Informative, well researched and example information on programming topics
 - [Gwern](https://www.gwern.net/index), [Github](https://github.com/gwern/gwern.net)
@@ -51,17 +47,8 @@ In no particular order:
 - [Project Nayuki](https://www.nayuki.io/)
 - [catonmat](https://catonmat.net/)
 - [research!rsc](https://research.swtch.com/)
-- [LOW-TECH MAGAZINE](./LOW-TECH MAGAZINE.md)
-  - #Zine
+- [LOW-TECH MAGAZINE](./LOW-TECH MAGAZINE.html)
+  - <span class="tag">[Zine](/tags/Zine.html)</span>
+- [John Salvatier](http://johnsalvatier.org/blog/)
 
-Also see [Podcasts I Like](./Podcasts I Like.md)
-
-## Tagged
-
-| filePath | tags | digitalGarden |
-|---|---|---|
-| [/My Personal Website.md](./My Personal Website.md) | #Blog #Digital_Garden #Neocities #PKSPKMS #Programming_Language/Haskell #Small_Web | Seed |
-| [/Blogs I Like.md](./Blogs I Like.md) | #Blog #I_Like #List | Bud |
-| [/LOW-TECH MAGAZINE.md](./LOW-TECH MAGAZINE.md) | #Blog #Solar #Solarpunk #Sustainability #Zine | Seed |
-| [/just serendipity.md](./just serendipity.md) | #Blog #Tech | Bud |
-
+Also see [Podcasts I Like](./Podcasts I Like.html)

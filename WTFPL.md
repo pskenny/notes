@@ -4,10 +4,11 @@ tags:
   - Legal
   - Software_License
 creationDate: 2025-07-16
-modifiedDate: 2025-09-21
+modifiedDate: 2025-11-14
 published: 2025-07-23
-publicUrl: https://www.wtfpl.net/
+url: https://www.wtfpl.net/
 access: Public
+description: Do What the Fuck You Want to Public License
 digitalGarden: Evergreen
 ---
 

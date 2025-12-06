@@ -4,10 +4,11 @@ tags:
   - HTML
   - TIL
 creationDate: 2025-07-22
-modifiedDate: 2025-09-19
+modifiedDate: 2025-11-14
 published: 2025-09-19
-publicUrl: https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/time
+url: https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/time
 access: Public
+description: There's a HTML element for time
 digitalGarden: Evergreen
 ---
 
