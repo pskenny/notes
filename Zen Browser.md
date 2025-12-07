@@ -9,7 +9,7 @@ modifiedDate: 2025-12-06
 published: 2025-12-06
 url: https://zen-browser.app/
 access: Public
-description:
+description: Firefox fork web browser
 digitalGarden: Seed
 ---
 

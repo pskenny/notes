@@ -4,7 +4,6 @@ tags:
   - Advice
   - Best_Of/2025
   - Essay
-  - Programming
 type:
   - Blog
   - Blog/Link

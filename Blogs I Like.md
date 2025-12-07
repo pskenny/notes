@@ -15,10 +15,10 @@ digitalGarden: Seed
 In no particular order:
 
 - [just serendipity](./just serendipity.html),
-  - <span class="tag">[Blog](/tags/Blog.html)</span>, <span class="tag">[Programming](/tags/Programming.html)</span>, <span class="tag">[Digital_Garden](/tags/Digital_Garden.html)</span>
   - [Distributing my own scripts via homebrew \| ¬ just serendipity 🍀](https://perrotta.dev/2025/10/distributing-my-own-scripts-via-homebrew/)
+- [LOW-TECH MAGAZINE](./LOW-TECH MAGAZINE.html)
+  - <span class="tag">[Zine](/tags/Zine.html)</span>
 - [Martin Fowler](https://martinfowler.com/), [RSS](https://martinfowler.com/feed.atom)
-  - <span class="tag">[Programming](/tags/Programming.html)</span>
   - Notable in computing and programming teaching/learning. I enjoy his sparse non-computer related posts too.
 - [beepb00p](https://beepb00p.xyz/), [GitHub](https://github.com/karlicoss/beepb00p)
   - <span class="tag">[Digital_Garden](/tags/Digital_Garden.html)</span>, <span class="tag">[Personal_Knowledge_Management](/tags/Personal_Knowledge_Management.html)</span>
@@ -47,8 +47,6 @@ In no particular order:
 - [Project Nayuki](https://www.nayuki.io/)
 - [catonmat](https://catonmat.net/)
 - [research!rsc](https://research.swtch.com/)
-- [LOW-TECH MAGAZINE](./LOW-TECH MAGAZINE.html)
-  - <span class="tag">[Zine](/tags/Zine.html)</span>
 - [John Salvatier](http://johnsalvatier.org/blog/)
 
 Also see [Podcasts I Like](./Podcasts I Like.html)

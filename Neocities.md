@@ -26,6 +26,6 @@ It has a strong community including, but not limited to, alternative, 00's, expe
 
 ![Neocities](./Resources/Image/2025-11-21 Neocities.png)
 
-They've a lot of open-source repositories on GitHub: [check out the Neocities GitHub profile here](https://github.com/neocities) - *spoiler: the backend is written in [[JavaScript]].*
+They've a lot of open-source repositories on GitHub, [check out the Neocities GitHub profile here](https://github.com/neocities).
 
 I think they're worth supporting and I pay them for the service. There's a [$5 per month tier](https://neocities.org/supporter) that's not the worst.

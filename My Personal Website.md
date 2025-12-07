@@ -9,7 +9,7 @@ tags:
   - Programming_Language/Haskell
   - Small_Web
 status:
-  - Inactive
+  - Active
 type:
   - Project
 creationDate: 2025-06-30
@@ -18,7 +18,7 @@ published: 2025-08-06
 url: https://paulkenny.neocities.org/
 access: Public
 digitalGarden: Seed
-git: https://github.com/pskenny/pskenny.github.io
+git: https://github.com/pskenny/pkspkms-ssg
 ---
 
 I've turned my private, half-assed [PKMS](./PKMS.html) into a public, no-assed [digital garden](./Digital Garden.html) that's hosted on [Neocities](./Neocities.html). A [[Python]] script exports my notes using [PKSPKMS](./PKSPKMS.html), then uses [Pandoc](./Pandoc.html) to turn those [[Markdown]] notes into [[HTML]]. It also uses [Pagefind](https://pagefind.app/) for search and [D3.js](https://d3js.org/) for displaying the graphs. It's a very long and effortful way to make your own [Obsidian Publish](https://obsidian.md/publish) alternative. I thought it'd be fun. It turned out to be an extremely long way to have fun.
