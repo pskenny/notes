@@ -11,7 +11,7 @@ access: Public
 digitalGarden: Seed
 ---
 
-Hakyll is a [[Haskell]] library that you can use to write a program that generates a website. It uses [Pandoc](./Pandoc.html) for document conversions. You write a program using it that generates a website, instead of passing in generation details to another program (such as [[Jekyll]])).
+Hakyll is a [[Haskell]] library that you can use to write a program that generates a website. It uses [Pandoc](Pandoc.html) for document conversions. You write a program using it that generates a website, instead of passing in generation details to another program (such as [[Jekyll]])).
 
 ## Links
 

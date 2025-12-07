@@ -12,19 +12,19 @@ modifiedDate: 2025-12-06
 published: 2025-07-21
 url: https://github.com/pskenny/pkspkms
 access: Public
-description: Markdown [PKMS](./PKMS.html) API and command-line export utility
+description: Markdown [PKMS](PKMS.html) API and command-line export utility
 digitalGarden: Bud
 ---
 
 **P**aul **K**enny'**S** **P**ersonal **K**nowledge **M**anagement **S**ystem
 
-A single user HTTP API server and command-line tool for [personal knowledge management system](./PKMS.html)s consisting of a single directory with [[Markdown]] files. Made to complement [Obsidian](./Obsidian.html).
+A single user HTTP API server and command-line tool for [personal knowledge management system](PKMS.html)s consisting of a single directory with [[Markdown]] files. Made to complement [Obsidian](Obsidian.html).
 
 My uses:
 
 - API for [[PKSPKMS Bookmarks Browser Extension]]
-- Export files from my [PKMS](./PKMS.html) to [my personal website](./My Personal Website.html)
-- Escape plan for [Obsidian](./Obsidian.html)
+- Export files from my [PKMS](PKMS.html) to [my personal website](My Personal Website.html)
+- Escape plan for [Obsidian](Obsidian.html)
 
 Right now it resolves wiklinks and badly transforms Obsidian Base[^1] (with only one function implemented) and turns it into a table. It's very slow and inefficient.
 
@@ -62,7 +62,7 @@ java -jar pkspkms.jar export --directory "/path/to/notes" --query "" --output "/
 
 - [mdzk](https://mdzk.app) - an API for your Markdown vault, see [docs](https://mdzk.app/docs). Very similar to what I'm doing here. Hasn't seen very much development in the [last two years](https://github.com/mdzk-rs/mdzk/commits/main/) (07-2025).
 - [SiYuan](https://b3log.org/siyuan/en/), [HN discussion](https://news.ycombinator.com/item?id=42512713) - WYSIWYG wiki
-- [Obsidian](./Obsidian.html)
+- [Obsidian](Obsidian.html)
 - [Logseq](https://logseq.com/) - commonly recommended Obsidian alternative
 - [Heptabase](https://heptabase.com/) - pretty slick looking and I like how annotating looks but it's not file/local first
 - [TriliumNext Notes](https://github.com/TriliumNext/Notes)
@@ -76,4 +76,4 @@ Also see [[Obsidian#Alternatives]].
 
 See [[PKSPKMS Tasks]].
 
-[^1]: It transforms Obsidian Base syntax into [LuaBase](./LuaBase.html) and then runs the expressions.
+[^1]: It transforms Obsidian Base syntax into [LuaBase](LuaBase.html) and then runs the expressions.

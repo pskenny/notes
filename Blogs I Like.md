@@ -14,9 +14,9 @@ digitalGarden: Seed
 
 In no particular order:
 
-- [just serendipity](./just serendipity.html),
+- [just serendipity](just serendipity.html),
   - [Distributing my own scripts via homebrew \| ¬ just serendipity 🍀](https://perrotta.dev/2025/10/distributing-my-own-scripts-via-homebrew/)
-- [LOW-TECH MAGAZINE](./LOW-TECH MAGAZINE.html)
+- [LOW-TECH MAGAZINE](LOW-TECH MAGAZINE.html)
   - <span class="tag">[Zine](/tags/Zine.html)</span>
 - [Martin Fowler](https://martinfowler.com/), [RSS](https://martinfowler.com/feed.atom)
   - Notable in computing and programming teaching/learning. I enjoy his sparse non-computer related posts too.
@@ -49,4 +49,4 @@ In no particular order:
 - [research!rsc](https://research.swtch.com/)
 - [John Salvatier](http://johnsalvatier.org/blog/)
 
-Also see [Podcasts I Like](./Podcasts I Like.html)
+Also see [Podcasts I Like](Podcasts I Like.html)

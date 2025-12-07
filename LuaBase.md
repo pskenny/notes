@@ -15,9 +15,9 @@ access: Public
 digitalGarden: Seed
 ---
 
-Why must I write [[JavaScript]] to define conditions in an embedded DSL not directly related to the web? Must I use the lingua franca of the web everywhere? Instead, I have made my own version of [Obsidian](./Obsidian.html)'s [Base](https://help.obsidian.md/bases) using [[Lua]] instead of JavaScript in another project of mine, [PKSPKMS](./PKSPKMS.html). Woe unto me.
+Why must I write [[JavaScript]] to define conditions in an embedded DSL not directly related to the web? Must I use the lingua franca of the web everywhere? Instead, I have made my own version of [Obsidian](Obsidian.html)'s [Base](https://help.obsidian.md/bases) using [[Lua]] instead of JavaScript in another project of mine, [PKSPKMS](PKSPKMS.html). Woe unto me.
 
-It's wrapped up inside [PKSPKMS](./PKSPKMS.html) and very fragile. I think it could be refactored out easily into a separate library (translation from Obsidian specific file property names would need to be sorted out too). I don't know it's useful for anyone but me though.
+It's wrapped up inside [PKSPKMS](PKSPKMS.html) and very fragile. I think it could be refactored out easily into a separate library (translation from Obsidian specific file property names would need to be sorted out too). I don't know it's useful for anyone but me though.
 
 I'm not very good at writing Lua, I'm fine at [[Java]] and joining the skills inside another programs operations has resulted in code that is *in need of improvement*.
 

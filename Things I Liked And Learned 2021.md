@@ -17,9 +17,9 @@ _Inspired by [Fogus](http://blog.fogus.me/)' "The best things and stuff…"_
 ## Podcasts
 
 - [Lex Fridman Podcast](https://lexfridman.com/podcast/) - Smart people having long conversations with Lex. Spoken with empathy and a generous understanding. Although long (usually 2.5/3 hours), I've never regretted listening to a minute.
-- [CoRecursive Podcast](./CoRecursive Podcast.html) - Interviews with tech people, programmer oriented. Consistently interesting.
+- [CoRecursive Podcast](CoRecursive Podcast.html) - Interviews with tech people, programmer oriented. Consistently interesting.
 
-Also see [Podcasts I Like](./Podcasts I Like.html).
+Also see [Podcasts I Like](Podcasts I Like.html).
 
 ## Films/TV Shows/YouTube
 

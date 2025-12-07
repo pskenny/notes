@@ -23,6 +23,6 @@ digitalGarden: Seed
 
 **SMS messaging app idea**: When you get a text it's received as a game of [hangman](https://en.wikipedia.org/wiki/Hangman_(game)) to solve. If you don't succeed, the text message is deleted. Good luck trying to guess activation/verification codes.
 
-![SMS Hangman game sketch](./Resources/Drawings/Hangman sms game.excalidraw.svg)
+![SMS Hangman game sketch](Resources/Drawings/Hangman sms game.excalidraw.svg)
 
 Would like to try doing it using [[Kotlin]] and [Jetpack Compose](https://en.wikipedia.org/wiki/Jetpack_Compose).

@@ -18,8 +18,8 @@ digitalGarden: Bud
 
 ## Command-Line Tools
 
-- [Homebrew](./Homebrew.html) - useful for installing things on Steam Deck and MacOS (and Typst on Raspberry Pi)
-- [topgrade](./topgrade.html) - upgrade everything
+- [Homebrew](Homebrew.html) - useful for installing things on Steam Deck and MacOS (and Typst on Raspberry Pi)
+- [topgrade](topgrade.html) - upgrade everything
 - [Zellij](https://zellij.dev/) - better `tmux` (better `screen`)
 - [tldr](https://tldr.sh/) - too long; didn't read `man` pages with examples
 - [zsh](https://wiki.archlinux.org/title/zsh) - better `bash` (better… `dash`?) with [omz](https://ohmyz.sh/) and [powerlevel10k](https://github.com/romkatv/powerlevel10k)
@@ -35,11 +35,11 @@ digitalGarden: Bud
 
 - Always use a password manager
 - [KDE](https://kubuntu.org/) (via [Kubuntu](https://kubuntu.org/))
-- [Zen Browser](./Zen Browser.html) - Firefox fork (compatible with Firefox extensions), the killer feature is [split tab browsing](https://docs.zen-browser.app/user-manual/split-view) on an ultrawide monitor
+- [Zen Browser](Zen Browser.html) - Firefox fork (compatible with Firefox extensions), the killer feature is [split tab browsing](https://docs.zen-browser.app/user-manual/split-view) on an ultrawide monitor
 - [Syncthing](https://syncthing.net/) - File syncing
 - [GIMP](https://www.gimp.org/) - image editing
 - [Steam](https://store.steampowered.com/) - Games
-- [Obsidian](./Obsidian.html) - Local first note taking on desktop and mobile
+- [Obsidian](Obsidian.html) - Local first note taking on desktop and mobile
 - [Calibre](https://calibre-ebook.com/) - Ebook library management
 - [VLC](https://www.videolan.org/vlc/) - watch any video format
 - [Ventoy](https://www.ventoy.net/en/index.html) - make a bootable USB stick for installing operating systems

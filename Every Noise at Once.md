@@ -23,4 +23,4 @@ Examples of every genre of music, has a Spotify playlist for each genre too. Fun
 
 Best viewed on desktop. On mobile I think you've to scroll to the most right.
 
-![Every noise at once screenshot](./Resources/Image/2025-09-21 Every Noise at Once preview.jpg)
+![Every noise at once screenshot](Resources/Image/2025-09-21 Every Noise at Once preview.jpg)

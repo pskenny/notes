@@ -16,7 +16,7 @@ digitalGarden: Evergreen
 
 Book: [The Grug Brained Developer](https://www.lulu.com/shop/carson-gross/the-grug-brained-developer/paperback/product-2m47wqg.html?page=1&pageSize=4)
 
-![2025-12-06 The Grug Brained Developer.png](./Resources/Image/2025-12-06 The Grug Brained Developer.png)
+![2025-12-06 The Grug Brained Developer.png](Resources/Image/2025-12-06 The Grug Brained Developer.png)
 
 > this collection of thoughts on software development gathered by grug brain developer
 >

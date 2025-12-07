@@ -11,7 +11,7 @@ description: List of podcasts I follow and enjoy.
 digitalGarden: Bud
 ---
 
-- [CoRecursive Podcast](./CoRecursive Podcast.html), [RSS](https://link.chtbl.com/corecursive?id=corecursive&platform=rss)
+- [CoRecursive Podcast](CoRecursive Podcast.html), [RSS](https://link.chtbl.com/corecursive?id=corecursive&platform=rss)
 - [Dan Carlin's Hardcore History](https://www.dancarlin.com/hardcore-history-series/), [RSS](http://feeds.feedburner.com/dancarlin/history?format=xml)
 	- Excellent long form history podcast. Maybe the best podcast ever.
 - [Intelligence Squared](https://www.intelligencesquared.com/intelligence-squared-podcast/)
@@ -25,4 +25,4 @@ digitalGarden: Bud
 - [Decoding The Gurus](https://decoding-the-gurus.captivate.fm/), [YouTube](https://www.youtube.com/@decodingthegurus)
 	- I wouldn't expect most to like it. I think it would be interesting for those who know a bit about the broader popular podcast sphere.
 
-Also see [Blogs I Like](./Blogs I Like.html).
+Also see [Blogs I Like](Blogs I Like.html).

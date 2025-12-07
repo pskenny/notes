@@ -20,4 +20,4 @@ digitalGarden: Evergreen
 
 Incredibly well styled and wonderful to look at comic website. The comics are okay.
 
-![ESP.World homepage screenshot](./Resources/Image/2025-09-21 ESPY.WORLD preview.jpg)
+![ESP.World homepage screenshot](Resources/Image/2025-09-21 ESPY.WORLD preview.jpg)
