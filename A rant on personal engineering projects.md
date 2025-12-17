@@ -20,9 +20,7 @@ description: Rant on personal projects and finishing them
 digitalGarden: Evergreen
 ---
 
-A great rant on what's important to do if you have personal, engineering-y type, projects.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4jgTCayWlwc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+A great rant on what's important if you have a personal project.
 
 Main channel: <https://www.youtube.com/c/BPSspace>
 

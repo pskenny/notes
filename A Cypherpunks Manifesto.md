@@ -1,15 +1,17 @@
 ---
 title: A Cypherpunk's Manifesto
 tags:
+  - Encryption
   - Manifesto
+  - Privacy
 creationDate: 2025-12-06
-modifiedDate: 2025-12-06
+modifiedDate: 2025-12-09
 published: 2025-12-07
 url: https://cdn.nakamotoinstitute.org/docs/cypherpunk-manifesto.txt
 author:
   - Eric Hughes
 access: Public
-description:
+description: It's cypher, not cyber
 digitalGarden: Evergreen
 ---
 

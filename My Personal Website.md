@@ -8,12 +8,13 @@ tags:
   - PKSPKMS
   - Programming_Language/Haskell
   - Small_Web
+  - Static_Websites
 status:
   - Active
 type:
   - Project
 creationDate: 2025-06-30
-modifiedDate: 2025-12-06
+modifiedDate: 2025-12-10
 published: 2025-08-06
 url: https://paulkenny.neocities.org/
 access: Public
@@ -25,6 +26,6 @@ I've turned my private, half-assed [PKMS](PKMS.html) into a public, no-assed [di
 
 ![neocitiesbadge.svg](Resources/Image/neocitiesbadge.svg)
 
-My previous online presence path has been [Dream.In.Code](https://blog.ielliott.io/rip-dreamincode) blog → [[Jekyll]] GitHub Pages blog → [Hakyll](Hakyll.html) [Neocities](Neocities.html) digital garden website → [[Python]] script [Neocities](Neocities.html) digital garden website.
+My previous online presence path has been [Dream.In.Code](https://blog.ielliott.io/rip-dreamincode) blog ➟ [[Jekyll]] GitHub Pages blog ➟ [Hakyll](Hakyll.html) [Neocities](Neocities.html) digital garden website ➟ [[Python]] script [Neocities](Neocities.html) digital garden website.
 
  You can find the Markdown files this website is generated from in this Git repo: [GitHub - pskenny/notes](https://github.com/pskenny/notes)

@@ -17,4 +17,4 @@ digitalGarden: Seed
 ---
 
 > "any [application](https://en.wiktionary.org/wiki/application#Noun "application") that can be written in [JavaScript](https://en.wiktionary.org/wiki/JavaScript#Proper_noun "JavaScript"), will eventually be written in JavaScript."
-> - *[Jeff Artwood](https://blog.codinghorror.com/), 2007*
+> - *[Jeff Atwood](https://blog.codinghorror.com/), 2007*

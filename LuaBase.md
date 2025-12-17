@@ -9,13 +9,13 @@ status:
 type:
   - Project
 creationDate: 2025-08-21
-modifiedDate: 2025-12-05
+modifiedDate: 2025-12-10
 published: 2025-12-02
 access: Public
 digitalGarden: Seed
 ---
 
-Why must I write [[JavaScript]] to define conditions in an embedded DSL not directly related to the web? Must I use the lingua franca of the web everywhere? Instead, I have made my own version of [Obsidian](Obsidian.html)'s [Base](https://help.obsidian.md/bases) using [[Lua]] instead of JavaScript in another project of mine, [PKSPKMS](PKSPKMS.html). Woe unto me.
+Why must I write [[JavaScript]] to define conditions in an embedded DSL not directly related to the web? [Must I use the lingua franca of the web everywhere?](Atwoods Law.html) Instead, I have made my own version of [Obsidian](Obsidian.html)'s [Base](https://help.obsidian.md/bases) using [[Lua]] instead of JavaScript in another project of mine, [PKSPKMS](PKSPKMS.html). Woe unto me.
 
 It's wrapped up inside [PKSPKMS](PKSPKMS.html) and very fragile. I think it could be refactored out easily into a separate library (translation from Obsidian specific file property names would need to be sorted out too). I don't know it's useful for anyone but me though.
 
@@ -93,7 +93,7 @@ end
 
 PKSPKMS currently naively uses regex to convert expressions into their Lua equivalents. It's very faulty and error prone with very limited definitions.
 
-Doesn't support:
+It doesn't support:
 
  - Filters:
 	 - Anything other than `and`

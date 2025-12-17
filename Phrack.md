@@ -30,3 +30,4 @@ A [hacker](https://en.wikipedia.org/wiki/Hacker_culture) magazine, first publish
 ## Links#
 
 - [Phrack - Wikipedia](https://en.wikipedia.org/wiki/Phrack)
+- [40 Years of Phrack - Firewalls Don't Stop Dragons Podcast](https://podcast.firewallsdontstopdragons.com/2025/12/08/40-years-of-phrack/) - A history of and introduction to, ~1hr

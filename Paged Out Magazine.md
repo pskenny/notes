@@ -1,6 +1,7 @@
 ---
 title: Paged Out! Magazine
 tags:
+  - Best_Of/2025
   - Electronics
   - Hacking
   - Security
@@ -10,7 +11,7 @@ status: Fleeting
 type:
   - Bookmark
 creationDate: 2025-12-04
-modifiedDate: 2025-12-06
+modifiedDate: 2025-12-08
 published: 2025-12-07
 url: https://pagedout.institute/
 access: Public

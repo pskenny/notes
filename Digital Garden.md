@@ -36,66 +36,67 @@ Some external links:
 
 | filePath | tags | creationDate | modifiedDate | access | Status |
 |---|---|---|---|---|---|
-| [SMS Hangman App.md](SMS Hangman App.html) | <span class="tag">[App](/tags/App.html)</span> <span class="tag">[Fun](/tags/Fun.html)</span> <span class="tag">[Game](/tags/Game.html)</span> <span class="tag">[Game_Dev](/tags/Game_Dev.html)</span> <span class="tag">[Idea](/tags/Idea.html)</span> <span class="tag">[Just_For_Fun](/tags/Just_For_Fun.html)</span> | Thu Oct 17 01:00:00 IST 2024 | Wed Nov 12 00:00:00 GMT 2025 | Public |  |
-| [Paged Out Magazine.md](Paged Out Magazine.html) | <span class="tag">[Electronics](/tags/Electronics.html)</span> <span class="tag">[Hacking](/tags/Hacking.html)</span> <span class="tag">[Security](/tags/Security.html)</span> <span class="tag">[Software_Development](/tags/Software_Development.html)</span> <span class="tag">[Zine](/tags/Zine.html)</span> | Thu Dec 04 00:00:00 GMT 2025 | Sat Dec 06 00:00:00 GMT 2025 | Public |  |
-| [TLDRLegal.md](TLDRLegal.html) | <span class="tag">[Legal](/tags/Legal.html)</span> <span class="tag">[License](/tags/License.html)</span> <span class="tag">[Software_License](/tags/Software_License.html)</span> | Sat Dec 06 00:00:00 GMT 2025 | Sat Dec 06 00:00:00 GMT 2025 | Public |  |
-| [The Curse of Knowing How or Fixing Everything.md](The Curse of Knowing How or Fixing Everything.html) | <span class="tag">[Advice](/tags/Advice.html)</span> <span class="tag">[Best_Of/2025](/tags/Best_Of/2025.html)</span> <span class="tag">[Essay](/tags/Essay.html)</span> | Wed Jul 16 01:00:00 IST 2025 | Wed Nov 12 00:00:00 GMT 2025 | Public |  |
-| [Privacy Guides.md](Privacy Guides.html) | <span class="tag">[Guide](/tags/Guide.html)</span> <span class="tag">[Privacy](/tags/Privacy.html)</span> <span class="tag">[Security](/tags/Security.html)</span> | Fri Dec 05 00:00:00 GMT 2025 | Sat Dec 06 00:00:00 GMT 2025 | Public |  |
-| [Public Home.md](Public Home.html) |  | Fri Aug 08 01:00:00 IST 2025 | Fri Dec 05 00:00:00 GMT 2025 | Public |  |
-| [LOW-TECH MAGAZINE.md](LOW-TECH MAGAZINE.html) | <span class="tag">[Blog](/tags/Blog.html)</span> <span class="tag">[Solar](/tags/Solar.html)</span> <span class="tag">[Solarpunk](/tags/Solarpunk.html)</span> <span class="tag">[Sustainability](/tags/Sustainability.html)</span> <span class="tag">[Zine](/tags/Zine.html)</span> | Thu Aug 01 01:00:00 IST 2024 | Wed Nov 12 00:00:00 GMT 2025 | Public |  |
-| [CoRecursive Podcast.md](CoRecursive Podcast.html) | <span class="tag">[Podcast](/tags/Podcast.html)</span> <span class="tag">[Software_Development](/tags/Software_Development.html)</span> | Sun Jun 01 01:00:00 IST 2025 | Wed Nov 12 00:00:00 GMT 2025 | Public |  |
-| [Project Gemini.md](Project Gemini.html) | <span class="tag">[Network_Protocol](/tags/Network_Protocol.html)</span> <span class="tag">[Project_Gemini](/tags/Project_Gemini.html)</span> | Fri Aug 08 01:00:00 IST 2025 | Fri Dec 05 00:00:00 GMT 2025 | Public |  |
-| [Contact Me.md](Contact Me.html) | <span class="tag">[Meta](/tags/Meta.html)</span> | Sat Dec 06 00:00:00 GMT 2025 | Sat Dec 06 00:00:00 GMT 2025 | Public |  |
-| [PKMS.md](PKMS.html) | <span class="tag">[Personal_Knowledge_Management](/tags/Personal_Knowledge_Management.html)</span> | Wed Aug 20 01:00:00 IST 2025 | Fri Nov 14 00:00:00 GMT 2025 | Public |  |
-| [LuaBase.md](LuaBase.html) | <span class="tag">[Obsidian](/tags/Obsidian.html)</span> <span class="tag">[PKSPKMS](/tags/PKSPKMS.html)</span> <span class="tag">[Programming_Language/Java](/tags/Programming_Language/Java.html)</span> <span class="tag">[Programming_Language/Lua](/tags/Programming_Language/Lua.html)</span> | Thu Aug 21 01:00:00 IST 2025 | Fri Dec 05 00:00:00 GMT 2025 | Public |  |
-| [Rules Of Thumb.md](Rules Of Thumb.html) | <span class="tag">[Advice](/tags/Advice.html)</span> <span class="tag">[List](/tags/List.html)</span> | Sat Oct 12 01:00:00 IST 2024 | Sat Nov 22 00:00:00 GMT 2025 | Public |  |
-| [Dithering Tool.md](Dithering Tool.html) | <span class="tag">[Cool](/tags/Cool.html)</span> <span class="tag">[Graphics](/tags/Graphics.html)</span> <span class="tag">[Web_App](/tags/Web_App.html)</span> | Thu Jul 03 01:00:00 IST 2025 | Sat Nov 15 00:00:00 GMT 2025 | Public |  |
-| [Pandoc.md](Pandoc.html) | <span class="tag">[Converter](/tags/Converter.html)</span> <span class="tag">[Documents](/tags/Documents.html)</span> <span class="tag">[Programming_Language/Haskell](/tags/Programming_Language/Haskell.html)</span> | Fri Nov 21 00:00:00 GMT 2025 | Mon Dec 01 00:00:00 GMT 2025 | Public |  |
-| [Zen Browser.md](Zen Browser.html) | <span class="tag">[Firefox](/tags/Firefox.html)</span> <span class="tag">[Web_Browser](/tags/Web_Browser.html)</span> | Sat Dec 06 00:00:00 GMT 2025 | Sat Dec 06 00:00:00 GMT 2025 | Public |  |
-| [A Solarpunk Manifesto.md](A Solarpunk Manifesto.html) | <span class="tag">[Manifesto](/tags/Manifesto.html)</span> <span class="tag">[Solarpunk](/tags/Solarpunk.html)</span> | Tue Jun 24 01:00:00 IST 2025 | Fri Dec 05 00:00:00 GMT 2025 | Public |  |
-| [Every Noise at Once.md](Every Noise at Once.html) | <span class="tag">[Best_Of/2025](/tags/Best_Of/2025.html)</span> <span class="tag">[Cool](/tags/Cool.html)</span> <span class="tag">[Music](/tags/Music.html)</span> <span class="tag">[Trinket/Website](/tags/Trinket/Website.html)</span> | Sat Jun 28 01:00:00 IST 2025 | Wed Nov 12 00:00:00 GMT 2025 | Public |  |
-| [Neocities.md](Neocities.html) | <span class="tag">[Art](/tags/Art.html)</span> <span class="tag">[Neocities](/tags/Neocities.html)</span> <span class="tag">[Static_Websites](/tags/Static_Websites.html)</span> <span class="tag">[Web](/tags/Web.html)</span> | Fri Jul 11 01:00:00 IST 2025 | Thu Nov 13 00:00:00 GMT 2025 | Public |  |
-| [Blogs I Like.md](Blogs I Like.html) | <span class="tag">[Blog](/tags/Blog.html)</span> <span class="tag">[I_Like](/tags/I_Like.html)</span> <span class="tag">[List](/tags/List.html)</span> | Sun Jun 01 01:00:00 IST 2025 | Sat Nov 15 00:00:00 GMT 2025 | Public |  |
-| [Homebrew.md](Homebrew.html) | <span class="tag">[Linux](/tags/Linux.html)</span> <span class="tag">[Mac](/tags/Mac.html)</span> <span class="tag">[Package_Manager](/tags/Package_Manager.html)</span> <span class="tag">[Program](/tags/Program.html)</span> | Sat Jul 19 01:00:00 IST 2025 | Fri Dec 05 00:00:00 GMT 2025 | Public |  |
-| [Hakyll.md](Hakyll.html) | <span class="tag">[Library](/tags/Library.html)</span> <span class="tag">[Programming_Language/Haskell](/tags/Programming_Language/Haskell.html)</span> <span class="tag">[Static_Websites](/tags/Static_Websites.html)</span> | Mon Jun 30 01:00:00 IST 2025 | Fri Nov 21 00:00:00 GMT 2025 | Public |  |
-| [Creative Commons BY-SA 4.0.md](Creative Commons BY-SA 4.0.html) | <span class="tag">[Legal](/tags/Legal.html)</span> <span class="tag">[License](/tags/License.html)</span> <span class="tag">[Software_License](/tags/Software_License.html)</span> | Sat Dec 06 00:00:00 GMT 2025 | Sat Dec 06 00:00:00 GMT 2025 | Public |  |
-| [Phrack.md](Phrack.html) | <span class="tag">[Hacking](/tags/Hacking.html)</span> <span class="tag">[Security](/tags/Security.html)</span> <span class="tag">[Zine](/tags/Zine.html)</span> | Thu Dec 04 00:00:00 GMT 2025 | Sat Dec 06 00:00:00 GMT 2025 | Public |  |
-| [Atwoods Law.md](Atwoods Law.html) | <span class="tag">[Law](/tags/Law.html)</span> <span class="tag">[Programming_Language/JavaScript](/tags/Programming_Language/JavaScript.html)</span> <span class="tag">[Software_Development](/tags/Software_Development.html)</span> | Fri Dec 05 00:00:00 GMT 2025 | Fri Dec 05 00:00:00 GMT 2025 | Public |  |
-| [My Personal Website.md](My Personal Website.html) | <span class="tag">[Blog](/tags/Blog.html)</span> <span class="tag">[Digital_Garden](/tags/Digital_Garden.html)</span> <span class="tag">[Meta](/tags/Meta.html)</span> <span class="tag">[Neocities](/tags/Neocities.html)</span> <span class="tag">[PKSPKMS](/tags/PKSPKMS.html)</span> <span class="tag">[Programming_Language/Haskell](/tags/Programming_Language/Haskell.html)</span> <span class="tag">[Small_Web](/tags/Small_Web.html)</span> | Mon Jun 30 01:00:00 IST 2025 | Sat Dec 06 00:00:00 GMT 2025 | Public |  |
+| [SMS Hangman App.md](SMS Hangman App.html) | #App #Fun #Game #Game_Dev #Idea #Just_For_Fun | 2024-10-17 | 2025-11-12 | Public |  |
+| [The Curse of Knowing How.md](The Curse of Knowing How.html) | #Advice #Best_Of/2025 #Essay | 2025-07-16 | 2025-11-12 | Public |  |
+| [TLDRLegal.md](TLDRLegal.html) | #Legal #License #Software_License | 2025-12-06 | 2025-12-09 | Public |  |
+| [Paged Out Magazine.md](Paged Out Magazine.html) | #Best_Of/2025 #Electronics #Hacking #Security #Software_Development #Zine | 2025-12-04 | 2025-12-08 | Public |  |
+| [Privacy Guides.md](Privacy Guides.html) | #Guide #Privacy #Security | 2025-12-05 | 2025-12-06 | Public |  |
+| [Public Home.md](Public Home.html) |  | 2025-08-08 | 2025-12-13 | Public |  |
+| [LOW-TECH MAGAZINE.md](LOW-TECH MAGAZINE.html) | #Blog #Solar #Solarpunk #Sustainability #Zine | 2024-08-01 | 2025-12-11 | Public |  |
+| [Better Software Conference.md](Better Software Conference.html) | #Best_Of/2025 #Conference #Software_Development | 2025-12-08 | 2025-12-12 | Public |  |
+| [CoRecursive Podcast.md](CoRecursive Podcast.html) | #Podcast #Software_Development | 2025-06-01 | 2025-11-12 | Public |  |
+| [Project Gemini.md](Project Gemini.html) | #Network_Protocol #Project_Gemini | 2025-08-08 | 2025-12-05 | Public |  |
+| [Contact Me.md](Contact Me.html) | #Meta | 2025-12-06 | 2025-12-06 | Public |  |
+| [PKMS.md](PKMS.html) | #Personal_Knowledge_Management | 2025-08-20 | 2025-11-14 | Public |  |
+| [LuaBase.md](LuaBase.html) | #Obsidian #PKSPKMS #Programming_Language/Java #Programming_Language/Lua | 2025-08-21 | 2025-12-10 | Public |  |
+| [Rules Of Thumb.md](Rules Of Thumb.html) | #Advice #List | 2024-10-12 | 2025-12-16 | Public |  |
+| [Dithering Tool.md](Dithering Tool.html) | #Cool #Graphics #Web_App | 2025-07-03 | 2025-11-15 | Public |  |
+| [Pandoc.md](Pandoc.html) | #Converter #Markup_Language #Programming_Language/Haskell | 2025-11-21 | 2025-12-13 | Public |  |
+| [Zen Browser.md](Zen Browser.html) | #Firefox #Web_Browser | 2025-12-06 | 2025-12-06 | Public |  |
+| [A Solarpunk Manifesto.md](A Solarpunk Manifesto.html) | #Manifesto #Solarpunk | 2025-06-24 | 2025-12-05 | Public |  |
+| [Every Noise at Once.md](Every Noise at Once.html) | #Best_Of/2025 #Cool #Music #Trinket/Website | 2025-06-28 | 2025-11-12 | Public |  |
+| [Neocities.md](Neocities.html) | #Art #Neocities #Static_Websites #Web | 2025-07-11 | 2025-11-13 | Public |  |
+| [Blogs I Like.md](Blogs I Like.html) | #Blog #I_Like #List | 2025-06-01 | 2025-12-11 | Public |  |
+| [Homebrew.md](Homebrew.html) | #Linux #Mac #Package_Manager #Program | 2025-07-19 | 2025-12-05 | Public |  |
+| [Hakyll.md](Hakyll.html) | #Library #Programming_Language/Haskell #Static_Websites | 2025-06-30 | 2025-11-21 | Public |  |
+| [Creative Commons BY-SA 4.0.md](Creative Commons BY-SA 4.0.html) | #Legal #License #Software_License | 2025-12-06 | 2025-12-06 | Public |  |
+| [Phrack.md](Phrack.html) | #Hacking #Security #Zine | 2025-12-04 | 2025-12-06 | Public |  |
+| [Atwoods Law.md](Atwoods Law.html) | #Law #Programming_Language/JavaScript #Software_Development | 2025-12-05 | 2025-12-05 | Public |  |
+| [My Personal Website.md](My Personal Website.html) | #Blog #Digital_Garden #Meta #Neocities #PKSPKMS #Programming_Language/Haskell #Small_Web #Static_Websites | 2025-06-30 | 2025-12-10 | Public |  |
 
 
 ### Budding
 
 | filePath | tags |
 |---|---|
-| [just serendipity.md](just serendipity.html) | <span class="tag">[Blog](/tags/Blog.html)</span> <span class="tag">[Tech](/tags/Tech.html)</span> |
-| [Podcasts I Like.md](Podcasts I Like.html) | <span class="tag">[I_Like](/tags/I_Like.html)</span> <span class="tag">[List](/tags/List.html)</span> <span class="tag">[Podcast](/tags/Podcast.html)</span> |
-| [Obsidian.md](Obsidian.html) | <span class="tag">[App](/tags/App.html)</span> <span class="tag">[Markdown](/tags/Markdown.html)</span> <span class="tag">[Obsidian](/tags/Obsidian.html)</span> <span class="tag">[Program](/tags/Program.html)</span> |
+| [just serendipity.md](just serendipity.html) | #Blog #Tech |
+| [Obsidian.md](Obsidian.html) | #App #Markdown #Obsidian #Program |
+| [Podcasts I Like.md](Podcasts I Like.html) | #I_Like #List #Podcast |
 | [Digital Garden.md](Digital Garden.html) |  |
-| [Programs I Like.md](Programs I Like.html) | <span class="tag">[Android](/tags/Android.html)</span> <span class="tag">[App](/tags/App.html)</span> <span class="tag">[Command-line](/tags/Command-line.html)</span> <span class="tag">[I_Like](/tags/I_Like.html)</span> <span class="tag">[Linux](/tags/Linux.html)</span> <span class="tag">[List](/tags/List.html)</span> <span class="tag">[Program](/tags/Program.html)</span> <span class="tag">[Terminal](/tags/Terminal.html)</span> |
-| [PKSPKMS.md](PKSPKMS.html) | <span class="tag">[Personal_Knowledge_Management](/tags/Personal_Knowledge_Management.html)</span> <span class="tag">[PKSPKMS](/tags/PKSPKMS.html)</span> <span class="tag">[Programming_Language/Java](/tags/Programming_Language/Java.html)</span> |
+| [Programs I Like.md](Programs I Like.html) | #Android #App #Command-line #I_Like #Linux #List #Program #Terminal |
+| [PKSPKMS.md](PKSPKMS.html) | #Personal_Knowledge_Management #PKSPKMS #Programming_Language/Java |
 
 
 ### Evergreen
 
 | filePath | tags | type |
 |---|---|---|
-| [The Zen Of Python.md](The Zen Of Python.html) | <span class="tag">[Advice](/tags/Advice.html)</span> <span class="tag">[Programming_Language/Python](/tags/Programming_Language/Python.html)</span> <span class="tag">[Software_Development](/tags/Software_Development.html)</span> | [Blog, Blog/Quote] |
-| [Notes on Managing ADHD.md](Notes on Managing ADHD.html) | <span class="tag">[ADHD](/tags/ADHD.html)</span> <span class="tag">[Advice](/tags/Advice.html)</span> <span class="tag">[Best_Of/2025](/tags/Best_Of/2025.html)</span> | Bookmark |
-| [Things I Liked And Learned 2021.md](Things I Liked And Learned 2021.html) | <span class="tag">[Things_I_Liked_And_Learned](/tags/Things_I_Liked_And_Learned.html)</span> | [Blog, Blog/Post] |
-| [Things I Liked And Learned 2020.md](Things I Liked And Learned 2020.html) | <span class="tag">[Best_Of/2020](/tags/Best_Of/2020.html)</span> <span class="tag">[Things_I_Liked_And_Learned](/tags/Things_I_Liked_And_Learned.html)</span> | [Blog, Blog/Post] |
-| [bitchat.md](bitchat.html) | <span class="tag">[Android](/tags/Android.html)</span> <span class="tag">[App](/tags/App.html)</span> <span class="tag">[Bluetooth](/tags/Bluetooth.html)</span> <span class="tag">[Decentralised](/tags/Decentralised.html)</span> <span class="tag">[Privacy](/tags/Privacy.html)</span> <span class="tag">[Security](/tags/Security.html)</span> |  |
-| [AGPL.md](AGPL.html) | <span class="tag">[FOSS](/tags/FOSS.html)</span> <span class="tag">[GNU](/tags/GNU.html)</span> <span class="tag">[Legal](/tags/Legal.html)</span> <span class="tag">[Software_License](/tags/Software_License.html)</span> |  |
-| [The Grug Brained Developer.md](The Grug Brained Developer.html) | <span class="tag">[Best_Of/2025](/tags/Best_Of/2025.html)</span> <span class="tag">[Software_Development](/tags/Software_Development.html)</span> | [Bookmark] |
-| [==ESPY.WORLD==.md](==ESPY.WORLD==.html) | <span class="tag">[Art](/tags/Art.html)</span> <span class="tag">[Comic](/tags/Comic.html)</span> <span class="tag">[Neocities](/tags/Neocities.html)</span> <span class="tag">[Trinket/Website](/tags/Trinket/Website.html)</span> | [Blog, Bookmark] |
-| [YOU’VE JUST BEEN FUCKED BY PSYOPS.md](YOU’VE JUST BEEN FUCKED BY PSYOPS.html) | <span class="tag">[Intelligence](/tags/Intelligence.html)</span> <span class="tag">[Privacy](/tags/Privacy.html)</span> <span class="tag">[PsyOps](/tags/PsyOps.html)</span> <span class="tag">[Security](/tags/Security.html)</span> <span class="tag">[Video](/tags/Video.html)</span> |  |
-| [time HTML element.md](time HTML element.html) | <span class="tag">[HTML](/tags/HTML.html)</span> <span class="tag">[TIL](/tags/TIL.html)</span> |  |
-| [WTFPL.md](WTFPL.html) | <span class="tag">[Legal](/tags/Legal.html)</span> <span class="tag">[Software_License](/tags/Software_License.html)</span> |  |
-| [A Cypherpunks Manifesto.md](A Cypherpunks Manifesto.html) | <span class="tag">[Manifesto](/tags/Manifesto.html)</span> |  |
-| [A rant on personal engineering projects.md](A rant on personal engineering projects.html) | <span class="tag">[Best_Of/2024](/tags/Best_Of/2024.html)</span> <span class="tag">[Project_Management](/tags/Project_Management.html)</span> <span class="tag">[Video](/tags/Video.html)</span> | [Blog, Blog/Link, Bookmark] |
-| [YTCH.md](YTCH.html) | <span class="tag">[Best_Of/2024](/tags/Best_Of/2024.html)</span> <span class="tag">[Entertainment](/tags/Entertainment.html)</span> <span class="tag">[Video](/tags/Video.html)</span> <span class="tag">[YouTube](/tags/YouTube.html)</span> | [Blog, Blog/Link, Bookmark] |
-| [Fullscreen Java Terminal Windows.md](Fullscreen Java Terminal Windows.html) | <span class="tag">[Code_Snippet](/tags/Code_Snippet.html)</span> <span class="tag">[Command-line](/tags/Command-line.html)</span> <span class="tag">[Programming_Language/Java](/tags/Programming_Language/Java.html)</span> <span class="tag">[Terminal](/tags/Terminal.html)</span> <span class="tag">[TUI](/tags/TUI.html)</span> | [Blog, Blog/Post] |
-| [topgrade.md](topgrade.html) | <span class="tag">[Command-line](/tags/Command-line.html)</span> <span class="tag">[Program](/tags/Program.html)</span> <span class="tag">[Programming_Language/Rust](/tags/Programming_Language/Rust.html)</span> <span class="tag">[Terminal](/tags/Terminal.html)</span> |  |
+| [The Zen Of Python.md](The Zen Of Python.html) | #Advice #Programming_Language/Python #Software_Development | [Blog, Blog/Quote] |
+| [Notes on Managing ADHD.md](Notes on Managing ADHD.html) | #ADHD #Advice #Best_Of/2025 | Bookmark |
+| [Things I Liked And Learned 2020.md](Things I Liked And Learned 2020.html) | #Best_Of/2020 #Things_I_Liked_And_Learned | [Blog, Blog/Post] |
+| [Things I Liked And Learned 2021.md](Things I Liked And Learned 2021.html) | #Things_I_Liked_And_Learned | [Blog, Blog/Post] |
+| [bitchat.md](bitchat.html) | #Android #App #Bluetooth #Decentralised #Privacy #Security |  |
+| [AGPL.md](AGPL.html) | #FOSS #GNU #Legal #Software_License |  |
+| [The Grug Brained Developer.md](The Grug Brained Developer.html) | #Best_Of/2025 #Software_Development | [Bookmark] |
+| [==ESPY.WORLD==.md](==ESPY.WORLD==.html) | #Art #Comic #Neocities #Trinket/Website | [Blog, Bookmark] |
+| [YOU’VE JUST BEEN FUCKED BY PSYOPS.md](YOU’VE JUST BEEN FUCKED BY PSYOPS.html) | #Intelligence #Privacy #PsyOps #Security #Video |  |
+| [time HTML element.md](time HTML element.html) | #HTML #TIL |  |
+| [A Cypherpunks Manifesto.md](A Cypherpunks Manifesto.html) | #Encryption #Manifesto #Privacy |  |
+| [WTFPL.md](WTFPL.html) | #Legal #Software_License |  |
+| [A rant on personal engineering projects.md](A rant on personal engineering projects.html) | #Best_Of/2024 #Project_Management #Video | [Blog, Blog/Link, Bookmark] |
+| [YTCH.md](YTCH.html) | #Best_Of/2024 #Entertainment #Video #YouTube | [Blog, Blog/Link, Bookmark] |
+| [Fullscreen Java Terminal Windows.md](Fullscreen Java Terminal Windows.html) | #Code_Snippet #Command-line #Programming_Language/Java #Terminal #TUI | [Blog, Blog/Post] |
+| [topgrade.md](topgrade.html) | #Command-line #Program #Programming_Language/Rust #Terminal |  |
 
 
 ## Lists

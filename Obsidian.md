@@ -47,3 +47,7 @@ To see other peoples vaults (collection of notes in Obsidian) you can find some 
 - [Notion](https://www.notion.com/)
 - [Slite](https://slite.com/)
 - [Heptabase](https://heptabase.com/)
+- [emanote](https://github.com/srid/emanote)
+- [Hyperdraft](https://hyperdraft.rosano.ca/)
+- [Trilium Notes](https://github.com/TriliumNext/Trilium)
+- [Bangle.io](https://bangle.io/)

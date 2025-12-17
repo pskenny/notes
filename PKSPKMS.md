@@ -56,7 +56,7 @@ java -jar pkspkms.jar export --directory "/path/to/notes" --query "" --output "/
 ## Known Issues
 
 - ==Lots==
-- Doesn't support single line, comma separated tags
+- currently it holds entire files that need changes in-memory so this won't work for directories with large, multi-megabyte Markdown files
 
 ## Other Personal Knowledge Management Software
 
@@ -69,6 +69,7 @@ java -jar pkspkms.jar export --directory "/path/to/notes" --query "" --output "/
 - [SilverBullet](https://silverbullet.md/) - self-hosted single user
 - [Dendron](https://www.dendron.so/) - Visual Studio Code extension
 - [xwmx/nb](https://github.com/xwmx/nb) - a crazy amount of features in one portable Shell script
+- [Obsidian Digital Garden Plugin](https://dg-docs.ole.dev/)
 
 Also see [[Obsidian#Alternatives]].
 

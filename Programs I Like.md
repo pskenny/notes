@@ -9,12 +9,14 @@ tags:
   - Program
   - Terminal
 creationDate: 2025-06-20
-modifiedDate: 2025-12-05
+modifiedDate: 2025-12-13
 published: 2025-07-01
 access: Public
 description: List of programs I use. Linux 🐧 and Android.
 digitalGarden: Bud
 ---
+
+> [!info] Always use a password manager, [check out Privacy Guides for more](https://www.privacyguides.org/en/passwords/#proton-pass)
 
 ## Command-Line Tools
 
@@ -33,7 +35,6 @@ digitalGarden: Bud
 
 ## Desktop (Linux 🐧)
 
-- Always use a password manager
 - [KDE](https://kubuntu.org/) (via [Kubuntu](https://kubuntu.org/))
 - [Zen Browser](Zen Browser.html) - Firefox fork (compatible with Firefox extensions), the killer feature is [split tab browsing](https://docs.zen-browser.app/user-manual/split-view) on an ultrawide monitor
 - [Syncthing](https://syncthing.net/) - File syncing
@@ -47,7 +48,6 @@ digitalGarden: Bud
 
 ## Android
 
-- Always use a password manager
 - [F-Droid](https://f-droid.org/en/) - Free and Open Source Android App Repository (Store)
 - [Phocid](https://github.com/tjysunset/phocid) ([F-Droid](https://f-droid.org/packages/org.sunsetware.phocid/)) - Music player with automatic local file playlist syncing
 - [AntennaPod](https://antennapod.org/) ([F-Droid](https://f-droid.org/packages/de.danoeh.antennapod/)) - Podcast client with [gPodder](https://gpodder.net/) sync support, local automatic backups and nice interface

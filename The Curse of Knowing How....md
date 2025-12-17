@@ -1,5 +1,5 @@
 ---
-title: The Curse of Knowing How, or; Fixing Everything | Blog
+title: The Curse of Knowing How, or; Fixing Everything
 tags:
   - Advice
   - Best_Of/2025

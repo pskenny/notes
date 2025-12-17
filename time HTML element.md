@@ -4,7 +4,7 @@ tags:
   - HTML
   - TIL
 creationDate: 2025-07-22
-modifiedDate: 2025-11-14
+modifiedDate: 2025-12-09
 published: 2025-09-19
 url: https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/time
 access: Public

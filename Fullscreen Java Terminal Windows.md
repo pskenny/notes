@@ -10,14 +10,14 @@ type:
   - Blog
   - Blog/Post
 creationDate: 2021-01-06
-modifiedDate: 2025-09-21
+modifiedDate: 2025-12-09
 published: 2021-01-06
 access: Public
-digitalGarden: Evergreen
 description: Code snippet for writing a TUI in Java using Lanterna
+digitalGarden: Evergreen
 ---
 
-> [!warning] Hey, it's you from 2025
+> [!WARNING] Hey, it's you from 2025
 > Don't do this. Don't hurt yourself. You want to write a [TUI](https://en.wikipedia.org/wiki/Command-line_interface)? Don't use Java. Use Python or Rust. That summer when you thought it was a fun idea is over.
 
 _tldr:_ Here's a code snippet of a fullscreen terminal window using Lanterna.
