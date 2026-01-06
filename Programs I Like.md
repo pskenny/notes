@@ -27,7 +27,7 @@ digitalGarden: Bud
 - [zsh](https://wiki.archlinux.org/title/zsh) - better `bash` (better… `dash`?) with [omz](https://ohmyz.sh/) and [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 - [bat](https://github.com/sharkdp/bat) - better `cat`
 - [eza](https://github.com/eza-community/eza) - better `ls`
-- [yazi](https://yazi-rs.github.io/) - terminal file manager
+- [yazi](https://yazi-rs.github.io/) - file manager
 - [spotdl](https://github.com/spotDL/spotify-downloader) - download songs (and playlists) using Spotify metadata from YouTube Music
 - [btop](https://github.com/aristocratos/btop) - better `htop` (better `top`)
 - [Atuin](https://atuin.sh/) - better shell history

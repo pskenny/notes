@@ -36,33 +36,34 @@ Some external links:
 
 | filePath | tags | creationDate | modifiedDate | access | Status |
 |---|---|---|---|---|---|
-| [SMS Hangman App.md](SMS Hangman App.html) | #App #Fun #Game #Game_Dev #Idea #Just_For_Fun | 2024-10-17 | 2025-11-12 | Public |  |
 | [The Curse of Knowing How.md](The Curse of Knowing How.html) | #Advice #Best_Of/2025 #Essay | 2025-07-16 | 2025-11-12 | Public |  |
-| [TLDRLegal.md](TLDRLegal.html) | #Legal #License #Software_License | 2025-12-06 | 2025-12-09 | Public |  |
+| [SMS Hangman App.md](SMS Hangman App.html) | #App #Fun #Game #Game_Dev #Idea #Just_For_Fun | 2024-10-17 | 2025-11-12 | Public |  |
 | [Paged Out Magazine.md](Paged Out Magazine.html) | #Best_Of/2025 #Electronics #Hacking #Security #Software_Development #Zine | 2025-12-04 | 2025-12-08 | Public |  |
+| [TLDRLegal.md](TLDRLegal.html) | #Legal #License #Software_License | 2025-12-06 | 2025-12-09 | Public |  |
 | [Privacy Guides.md](Privacy Guides.html) | #Guide #Privacy #Security | 2025-12-05 | 2025-12-06 | Public |  |
 | [Public Home.md](Public Home.html) |  | 2025-08-08 | 2025-12-13 | Public |  |
-| [LOW-TECH MAGAZINE.md](LOW-TECH MAGAZINE.html) | #Blog #Solar #Solarpunk #Sustainability #Zine | 2024-08-01 | 2025-12-11 | Public |  |
 | [Better Software Conference.md](Better Software Conference.html) | #Best_Of/2025 #Conference #Software_Development | 2025-12-08 | 2025-12-12 | Public |  |
+| [LOW-TECH MAGAZINE.md](LOW-TECH MAGAZINE.html) | #Blog #Lowtech #Solar #Solarpunk #Sustainability #Zine | 2024-08-01 | 2026-01-03 | Public |  |
 | [CoRecursive Podcast.md](CoRecursive Podcast.html) | #Podcast #Software_Development | 2025-06-01 | 2025-11-12 | Public |  |
 | [Project Gemini.md](Project Gemini.html) | #Network_Protocol #Project_Gemini | 2025-08-08 | 2025-12-05 | Public |  |
 | [Contact Me.md](Contact Me.html) | #Meta | 2025-12-06 | 2025-12-06 | Public |  |
 | [PKMS.md](PKMS.html) | #Personal_Knowledge_Management | 2025-08-20 | 2025-11-14 | Public |  |
 | [LuaBase.md](LuaBase.html) | #Obsidian #PKSPKMS #Programming_Language/Java #Programming_Language/Lua | 2025-08-21 | 2025-12-10 | Public |  |
 | [Rules Of Thumb.md](Rules Of Thumb.html) | #Advice #List | 2024-10-12 | 2025-12-16 | Public |  |
-| [Dithering Tool.md](Dithering Tool.html) | #Cool #Graphics #Web_App | 2025-07-03 | 2025-11-15 | Public |  |
 | [Pandoc.md](Pandoc.html) | #Converter #Markup_Language #Programming_Language/Haskell | 2025-11-21 | 2025-12-13 | Public |  |
+| [Dithering Tool.md](Dithering Tool.html) | #Cool #Graphics #Web_App | 2025-07-03 | 2025-11-15 | Public |  |
+| [Kill the Newsletter.md](Kill the Newsletter.html) | #Best_Of/2025 #Small_Web | 2025-12-10 | 2025-12-17 | Public |  |
 | [Zen Browser.md](Zen Browser.html) | #Firefox #Web_Browser | 2025-12-06 | 2025-12-06 | Public |  |
 | [A Solarpunk Manifesto.md](A Solarpunk Manifesto.html) | #Manifesto #Solarpunk | 2025-06-24 | 2025-12-05 | Public |  |
 | [Every Noise at Once.md](Every Noise at Once.html) | #Best_Of/2025 #Cool #Music #Trinket/Website | 2025-06-28 | 2025-11-12 | Public |  |
-| [Neocities.md](Neocities.html) | #Art #Neocities #Static_Websites #Web | 2025-07-11 | 2025-11-13 | Public |  |
+| [Neocities.md](Neocities.html) | #Art #Neocities #Static_Websites #Web | 2025-07-11 | 2025-12-17 | Public |  |
 | [Blogs I Like.md](Blogs I Like.html) | #Blog #I_Like #List | 2025-06-01 | 2025-12-11 | Public |  |
 | [Homebrew.md](Homebrew.html) | #Linux #Mac #Package_Manager #Program | 2025-07-19 | 2025-12-05 | Public |  |
 | [Hakyll.md](Hakyll.html) | #Library #Programming_Language/Haskell #Static_Websites | 2025-06-30 | 2025-11-21 | Public |  |
 | [Creative Commons BY-SA 4.0.md](Creative Commons BY-SA 4.0.html) | #Legal #License #Software_License | 2025-12-06 | 2025-12-06 | Public |  |
 | [Phrack.md](Phrack.html) | #Hacking #Security #Zine | 2025-12-04 | 2025-12-06 | Public |  |
 | [Atwoods Law.md](Atwoods Law.html) | #Law #Programming_Language/JavaScript #Software_Development | 2025-12-05 | 2025-12-05 | Public |  |
-| [My Personal Website.md](My Personal Website.html) | #Blog #Digital_Garden #Meta #Neocities #PKSPKMS #Programming_Language/Haskell #Small_Web #Static_Websites | 2025-06-30 | 2025-12-10 | Public |  |
+| [My Personal Website.md](My Personal Website.html) | #Blog #Digital_Garden #Meta #Neocities #PKSPKMS #Programming_Language/Haskell #Small_Web #Static_Websites | 2025-06-30 | 2026-01-03 | Public |  |
 
 
 ### Budding
@@ -81,8 +82,8 @@ Some external links:
 
 | filePath | tags | type |
 |---|---|---|
-| [The Zen Of Python.md](The Zen Of Python.html) | #Advice #Programming_Language/Python #Software_Development | [Blog, Blog/Quote] |
 | [Notes on Managing ADHD.md](Notes on Managing ADHD.html) | #ADHD #Advice #Best_Of/2025 | Bookmark |
+| [The Zen Of Python.md](The Zen Of Python.html) | #Advice #Programming_Language/Python #Software_Development | [Blog, Blog/Quote] |
 | [Things I Liked And Learned 2020.md](Things I Liked And Learned 2020.html) | #Best_Of/2020 #Things_I_Liked_And_Learned | [Blog, Blog/Post] |
 | [Things I Liked And Learned 2021.md](Things I Liked And Learned 2021.html) | #Things_I_Liked_And_Learned | [Blog, Blog/Post] |
 | [bitchat.md](bitchat.html) | #Android #App #Bluetooth #Decentralised #Privacy #Security |  |

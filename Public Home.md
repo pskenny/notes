@@ -32,7 +32,7 @@ Everybody likes links though so here's some of mine:
 | [YTCH.md](YTCH.html) | 2025-07-21 | https://ytch.xyz/ | YouTube if it had channels | #Best_Of/2024 #Entertainment #Video #YouTube | Evergreen |
 | [==ESPY.WORLD==.md](==ESPY.WORLD==.html) | 2025-07-21 | https://espy.world/ | Incredibly well styled comic website. Wonderful to look at. Comics are okay. | #Art #Comic #Neocities #Trinket/Website | Evergreen |
 | [SMS Hangman App.md](SMS Hangman App.html) | 2025-07-21 |  | Idea for a hangman game every time you get a text message. | #App #Fun #Game #Game_Dev #Idea #Just_For_Fun | Seed |
-| [LOW-TECH MAGAZINE.md](LOW-TECH MAGAZINE.html) | 2025-07-01 | https://www.lowtechmagazine.com/ |  | #Blog #Solar #Solarpunk #Sustainability #Zine | Seed |
+| [LOW-TECH MAGAZINE.md](LOW-TECH MAGAZINE.html) | 2025-07-01 | https://www.lowtechmagazine.com/ |  | #Blog #Lowtech #Solar #Solarpunk #Sustainability #Zine | Seed |
 | [just serendipity.md](just serendipity.html) | 2025-07-01 | https://perrotta.dev/posts | I like the blog. Small posts frequently about mostly backend software dev things | #Blog #Tech | Bud |
 | [The Zen Of Python.md](The Zen Of Python.html) | 2025-02-09 | https://peps.python.org/pep-0020/ | Guiding principles for Python’s design in 19 aphorisms | #Advice #Programming_Language/Python #Software_Development | Evergreen |
 | [A rant on personal engineering projects.md](A rant on personal engineering projects.html) | 2024-10-06 | https://www.youtube.com/watch?v=4jgTCayWlwc | Rant on personal projects and finishing them | #Best_Of/2024 #Project_Management #Video | Evergreen |
@@ -45,6 +45,8 @@ Everybody likes links though so here's some of mine:
 
 | filePath | published | tags | description | digitalGarden | modifiedDate | creationDate |
 |---|---|---|---|---|---|---|
+| [FracturedJson Formatter.md](FracturedJson Formatter.html) | 2026-01-06 | #Formatter #JSON #Web_Tool | Very readable browser JSON formatter |  | 2026-01-06 | 2026-01-06 |
+| [Kill the Newsletter.md](Kill the Newsletter.html) | 2025-12-17 | #Best_Of/2025 #Small_Web |  | Seed | 2025-12-17 | 2025-12-10 |
 | [Better Software Conference.md](Better Software Conference.html) | 2025-12-08 | #Best_Of/2025 #Conference #Software_Development |  | Seed | 2025-12-12 | 2025-12-08 |
 | [Paged Out Magazine.md](Paged Out Magazine.html) | 2025-12-07 | #Best_Of/2025 #Electronics #Hacking #Security #Software_Development #Zine | coder type magazine | Seed | 2025-12-08 | 2025-12-04 |
 | [Phrack.md](Phrack.html) | 2025-12-07 | #Hacking #Security #Zine |  | Seed | 2025-12-06 | 2025-12-04 |
@@ -69,28 +71,28 @@ Everybody likes links though so here's some of mine:
 | [PKMS.md](PKMS.html) | 2025-08-26 | #Personal_Knowledge_Management | Personal knowledge management system | Seed | 2025-11-14 | 2025-08-20 |
 | [Project Gemini.md](Project Gemini.html) | 2025-08-09 | #Network_Protocol #Project_Gemini | Gemini network protocol and hypertext format | Seed | 2025-12-05 | 2025-08-08 |
 | [Public Home.md](Public Home.html) | 2025-08-08 |  |  | Seed | 2025-12-13 | 2025-08-08 |
-| [My Personal Website.md](My Personal Website.html) | 2025-08-06 | #Blog #Digital_Garden #Meta #Neocities #PKSPKMS #Programming_Language/Haskell #Small_Web #Static_Websites |  | Seed | 2025-12-10 | 2025-06-30 |
+| [My Personal Website.md](My Personal Website.html) | 2025-08-06 | #Blog #Digital_Garden #Meta #Neocities #PKSPKMS #Programming_Language/Haskell #Small_Web #Static_Websites |  | Seed | 2026-01-03 | 2025-06-30 |
 | [Dithering Tool.md](Dithering Tool.html) | 2025-07-23 | #Cool #Graphics #Web_App | Fun web tool to try out different dithering on an image | Seed | 2025-11-15 | 2025-07-03 |
 | [WTFPL.md](WTFPL.html) | 2025-07-23 | #Legal #Software_License | Do What the Fuck You Want to Public License | Evergreen | 2025-11-14 | 2025-07-16 |
 | [The Grug Brained Developer.md](The Grug Brained Developer.html) | 2025-07-21 | #Best_Of/2025 #Software_Development |  | Evergreen | 2025-12-06 | 2025-06-01 |
 | [YTCH.md](YTCH.html) | 2025-07-21 | #Best_Of/2024 #Entertainment #Video #YouTube | YouTube if it had channels | Evergreen | 2025-12-05 | 2025-06-10 |
 | [==ESPY.WORLD==.md](==ESPY.WORLD==.html) | 2025-07-21 | #Art #Comic #Neocities #Trinket/Website | Incredibly well styled comic website. Wonderful to look at. Comics are okay. | Evergreen | 2025-11-13 | 2025-07-16 |
-| [PKSPKMS.md](PKSPKMS.html) | 2025-07-21 | #Personal_Knowledge_Management #PKSPKMS #Programming_Language/Java | Markdown [PKMS](PKMS.html) API and command-line export utility | Bud | 2025-12-06 | 2025-01-19 |
+| [PKSPKMS.md](PKSPKMS.html) | 2025-07-21 | #Personal_Knowledge_Management #PKSPKMS #Programming_Language/Java | Markdown [PKMS](PKMS.html) API and command-line export utility | Bud | 2026-01-06 | 2025-01-19 |
 | [Homebrew.md](Homebrew.html) | 2025-07-21 | #Linux #Mac #Package_Manager #Program | The missing package manager | Seed | 2025-12-05 | 2025-07-19 |
 | [SMS Hangman App.md](SMS Hangman App.html) | 2025-07-21 | #App #Fun #Game #Game_Dev #Idea #Just_For_Fun | Idea for a hangman game every time you get a text message. | Seed | 2025-11-12 | 2024-10-17 |
-| [Neocities.md](Neocities.html) | 2025-07-19 | #Art #Neocities #Static_Websites #Web | Free, fun web hosting | Seed | 2025-11-13 | 2025-07-11 |
+| [Neocities.md](Neocities.html) | 2025-07-19 | #Art #Neocities #Static_Websites #Web | Free, fun web hosting | Seed | 2025-12-17 | 2025-07-11 |
 | [Hakyll.md](Hakyll.html) | 2025-07-16 | #Library #Programming_Language/Haskell #Static_Websites |  | Seed | 2025-11-21 | 2025-06-30 |
 | [Rules Of Thumb.md](Rules Of Thumb.html) | 2025-07-14 | #Advice #List | Some heuristics I've accumulated | Seed | 2025-12-16 | 2024-10-12 |
 | [YOU’VE JUST BEEN FUCKED BY PSYOPS.md](YOU’VE JUST BEEN FUCKED BY PSYOPS.html) | 2025-07-12 | #Intelligence #Privacy #PsyOps #Security #Video |  | Evergreen | 2025-11-12 | 2025-06-26 |
 | [topgrade.md](topgrade.html) | 2025-07-11 | #Command-line #Program #Programming_Language/Rust #Terminal | A handy everything updater program | Evergreen | 2025-11-14 | 2025-05-18 |
 | [Digital Garden.md](Digital Garden.html) | 2025-07-01 |  | What is a digital garden and I show you mine | Bud | 2025-12-06 | 2025-06-01 |
-| [LOW-TECH MAGAZINE.md](LOW-TECH MAGAZINE.html) | 2025-07-01 | #Blog #Solar #Solarpunk #Sustainability #Zine |  | Seed | 2025-12-11 | 2024-08-01 |
+| [LOW-TECH MAGAZINE.md](LOW-TECH MAGAZINE.html) | 2025-07-01 | #Blog #Lowtech #Solar #Solarpunk #Sustainability #Zine |  | Seed | 2026-01-03 | 2024-08-01 |
 | [Blogs I Like.md](Blogs I Like.html) | 2025-07-01 | #Blog #I_Like #List | List of blogs I follow and enjoy | Seed | 2025-12-11 | 2025-06-01 |
 | [CoRecursive Podcast.md](CoRecursive Podcast.html) | 2025-07-01 | #Podcast #Software_Development | Software dev podcast | Seed | 2025-11-12 | 2025-06-01 |
 | [Programs I Like.md](Programs I Like.html) | 2025-07-01 | #Android #App #Command-line #I_Like #Linux #List #Program #Terminal | List of programs I use. Linux 🐧 and Android. | Bud | 2025-12-13 | 2025-06-20 |
 | [Podcasts I Like.md](Podcasts I Like.html) | 2025-07-01 | #I_Like #List #Podcast | List of podcasts I follow and enjoy. | Bud | 2025-11-11 | 2025-06-01 |
 | [just serendipity.md](just serendipity.html) | 2025-07-01 | #Blog #Tech | I like the blog. Small posts frequently about mostly backend software dev things | Bud | 2025-11-12 | 2025-06-20 |
-| [The Zen Of Python.md](The Zen Of Python.html) | 2025-02-09 | #Advice #Programming_Language/Python #Software_Development | Guiding principles for Python’s design in 19 aphorisms | Evergreen | 2025-12-05 | 2025-02-09 |
+| [The Zen Of Python.md](The Zen Of Python.html) | 2025-02-09 | #Advice #Programming_Language/Python #Software_Development | Guiding principles for Python’s design in 19 aphorisms | Evergreen | 2025-12-21 | 2025-02-09 |
 | [A rant on personal engineering projects.md](A rant on personal engineering projects.html) | 2024-10-06 | #Best_Of/2024 #Project_Management #Video | Rant on personal projects and finishing them | Evergreen | 2025-11-15 | 2025-06-20 |
 | [Things I Liked And Learned 2021.md](Things I Liked And Learned 2021.html) | 2021-12-31 | #Things_I_Liked_And_Learned |  | Evergreen | 2025-11-12 | 2021-12-31 |
 | [Fullscreen Java Terminal Windows.md](Fullscreen Java Terminal Windows.html) | 2021-01-06 | #Code_Snippet #Command-line #Programming_Language/Java #Terminal #TUI | Code snippet for writing a TUI in Java using Lanterna | Evergreen | 2025-12-09 | 2021-01-06 |

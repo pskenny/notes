@@ -7,7 +7,7 @@ type:
   - Blog
   - Blog/Quote
 creationDate: 2025-02-09
-modifiedDate: 2025-12-05
+modifiedDate: 2025-12-21
 published: 2025-02-09
 url: https://peps.python.org/pep-0020/
 author:
@@ -17,7 +17,6 @@ description: Guiding principles for Python’s design in 19 aphorisms
 digitalGarden: Evergreen
 ---
 
-> ```
 > Beautiful is better than ugly.
 > Explicit is better than implicit.
 > Simple is better than complex.
@@ -37,5 +36,5 @@ digitalGarden: Evergreen
 > If the implementation is hard to explain, it's a bad idea.
 > If the implementation is easy to explain, it may be a good idea.
 > Namespaces are one honking great idea -- let's do more of those!
-> ```
+>
 > - *Tim Peters, 19-Aug-2004*

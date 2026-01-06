@@ -8,7 +8,7 @@ status:
 type:
   - Project
 creationDate: 2025-01-19
-modifiedDate: 2025-12-06
+modifiedDate: 2026-01-06
 published: 2025-07-21
 url: https://github.com/pskenny/pkspkms
 access: Public

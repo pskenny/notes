@@ -1,6 +1,7 @@
 ---
 tags:
   - Blog
+  - Lowtech
   - Solar
   - Solarpunk
   - Sustainability
@@ -10,7 +11,7 @@ type:
   - Blog/Link
   - Bookmark
 creationDate: 2024-08-01
-modifiedDate: 2025-12-11
+modifiedDate: 2026-01-03
 published: 2025-07-01
 url: https://www.lowtechmagazine.com/
 access: Public
